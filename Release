@@ -1,0 +1,20 @@
+Origin: CokePokes
+
+Label: Phantom Apps LLC 
+
+Suite: stable
+
+Version: 1.0
+
+Codename: com.cokepokes.cokerepo
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Best of the Best
+
+MD5Sum:
+1d52762f3807436251627c8d409a3699 2237 Packages
+900293cda833bf655e633f2ecd4eaf80 1058 Packages.gz
+4c3479f5fad97733b54abd8327ba00e0 1174 Packages.bz2

@@ -1,0 +1,55 @@
+Package: com.cokepokes.SmartGlass-Clip-Saver
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: deb//com.cokepokes.SmartGlass-Clip-Saver_1.0-1_iphoneos-arm.deb
+Size: 226862
+MD5sum: a153538f8de7d13d27252c6bbafdd927
+SHA1: 343b5a74758ad39388b3ff87c0944e91ea5553ed
+SHA256: 2a53c33eec9bb43c70451ab264e0006e5db86c494bd78e7200b6595b1bc6a67d
+Section: Tweaks
+Priority: optional
+Description: Download & save SmartGlass game clips to camera roll.
+Tag: purpose::extension
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: SmartGlass Clip Saver
+
+Package: com.cokepokes.Snapchat-Volume-Statusbar
+Version: 0.5
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb//com.cokepokes.Snapchat-Volume-Statusbar_0.5_iphoneos-arm.deb
+Size: 22012
+MD5sum: 307527ab5e6d65480ba1b7b2fdf34d95
+SHA1: 46102b9df435c42058990cb66abfcd64b7339cd0
+SHA256: d529e081cc39b3879b27cfb0f655e8be735da320a7b575f10f4f320bd9127e12
+Section: Tweaks
+Priority: optional
+Description: A fucking awesome mobile substrate tweak!
+Author: CokePokes
+Name: Snapchat Volume Statusbar
+
+Package: com.cokepokes.phantom
+Version: 4.4.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus
+Filename: deb//com.cokepokes.phantom_4.4.2-1_iphoneos-arm.deb
+Size: 11752660
+MD5sum: 9415f39976f8209158de03181f765e45
+SHA1: 769aee4019cbebd1ccc83deb3581f46ed7700062
+SHA256: 2c6db0c08d68f62655d31d2ac9eb8cc4b0e7159119e738e6038b65590b516790
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Description: Break nearly all of Snapchat's limits with this all in one plugin.
+Tag: purpose::extension
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Dev: cokepokes
+Icon: file:///Library/PreferenceLoader/Preferences/phantomIcon@2x.png
+Name: Phantom for Snapchat
+Sponsor: thebigboss.org <http://thebigboss.org>
+
