@@ -31,16 +31,16 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.phantom
-Version: 4.5.2-3
+Version: 4.5.2-4
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
-Filename: deb//com.cokepokes.phantom_4.5.2-3_iphoneos-arm.deb
-Size: 11918572
-MD5sum: 0996ed6040a9675ad1ba47996d5fc48d
-SHA1: 7fbae236d6fb1be4989da29d740dfd2a2f3a5cfb
-SHA256: 6250298f700c27fbb020d5e944c26d7e657808cae4d35bd626fda0e9da88cd34
+Filename: deb//com.cokepokes.phantom_4.5.2-4_iphoneos-arm.deb
+Size: 11918814
+MD5sum: 6fd3481ebff3820c70553a949a9fc4fc
+SHA1: eec14a66b5f32b2d8a3fc2cd40e072f2799729e0
+SHA256: 8138492a2310ce326b7e5dfe63f1109d2360faf8e39ce24b7c0f378e8106464b
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
