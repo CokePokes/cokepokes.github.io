@@ -30,6 +30,26 @@ Description: A fucking awesome mobile substrate tweak!
 Author: CokePokes
 Name: Snapchat Volume Statusbar
 
+Package: com.cokepokes.libPhantom
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Filename: deb//com.cokepokes.libPhantom_1.0-1_iphoneos-arm.deb
+Size: 11620616
+MD5sum: 63c3e078cdf6197e801e8178d3e45ee0
+SHA1: 20eb24053bd73fb0704cce0df6ba1e8f3c76e1bd
+SHA256: 04a10d7fa6e4d6482c5754c5a5edeb313ef954a86119ef11078ba7e5e398be67
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libPhantomDp
+Description: Libraries used by Phantom
+Tag: purpose::development
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libPhantomDp
+Dev: cokepokes
+Name: libPhantom
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cokepokes.phantom
 Version: 4.5.3-6
 Architecture: iphoneos-arm
@@ -37,10 +57,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
 Filename: deb//com.cokepokes.phantom_4.5.3-6_iphoneos-arm.deb
-Size: 12657270
-MD5sum: e18d98c7be44564a1cde4435a1b1d7a6
-SHA1: a260607bc17075d1695ae99a845ad2fb28f7aaf4
-SHA256: 02eb694777aaab322638800e2c30bc8d890083a8103dc2ecc9e24426280b90e4
+Size: 12657024
+MD5sum: cabd2b273ef1f2377d875e9dadacf2d7
+SHA1: ab4dc1b8bfdde61529f91f26ff50d3b1de9bd4a5
+SHA256: 26d9748d9fba020e3f1d07a22bb36fd785a945fa45b02a8748a8c11d27c05a2e
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
