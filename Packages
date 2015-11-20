@@ -31,14 +31,14 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.libPhantom
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Filename: deb//com.cokepokes.libPhantom_1.0-1_iphoneos-arm.deb
-Size: 11620616
-MD5sum: 63c3e078cdf6197e801e8178d3e45ee0
-SHA1: 20eb24053bd73fb0704cce0df6ba1e8f3c76e1bd
-SHA256: 04a10d7fa6e4d6482c5754c5a5edeb313ef954a86119ef11078ba7e5e398be67
+Filename: deb//com.cokepokes.libPhantom_1.0-2_iphoneos-arm.deb
+Size: 10037506
+MD5sum: ed8e24b0b5f1c370edc30308e89dbc50
+SHA1: 6fdc659488c24f6702dee7dc0d5ca6475b8afb49
+SHA256: 36107791461bab67e72dc94f51bccc7e98ccaec16ead60d6532e8fe64448122f
 Section: Development
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libPhantomDp
@@ -51,16 +51,16 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 4.5.4-0
+Version: 4.5.4-01
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, com.cokepokes.libPhantom, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
-Filename: deb//com.cokepokes.phantom_4.5.4-0_iphoneos-arm.deb
-Size: 3008572
-MD5sum: 8f1e6543974f55bad64ebfcffebc0626
-SHA1: 658b7317c15c18798bad06d6367477f78d43321c
-SHA256: d3c2d8b3bf9e391fd3bba605774deaf76f3236ba586ceb1603ae7b3bd65ff7de
+Filename: deb//com.cokepokes.phantom_4.5.4-01_iphoneos-arm.deb
+Size: 3008674
+MD5sum: bec344946bd8312a2c4ac25f5b3aeb61
+SHA1: 183132dcf17d1506c8b3b78ea4bb0a2c22769485
+SHA256: 1c18c5aa5c61d5ba7f357337b0c518f965eb36f0ea1fa0111d31685a26269b6b
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
