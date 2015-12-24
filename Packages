@@ -60,10 +60,10 @@ Installed-Size: 6411
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
 Filename: deb//com.cokepokes.phantom_4.5.5-2_iphoneos-arm.deb
-Size: 3154408
-MD5sum: d373bf3d5ee61976b2fb2188b6cdd8bf
-SHA1: 82c6630b7fcc3d4fbbc86706edd875ff20b260a4
-SHA256: 59ed38804a44f09a270258c4bf514b01bb51d1922f655ad8a7035cbb84b2e31d
+Size: 3155088
+MD5sum: eddd275bfe5b8fbf6bac0d9cee1fd4ca
+SHA1: 90282ccaf5d39b3b59205024b9910745bb7fa09f
+SHA256: 415708152d366a665873f4622868116d87b0466c0dcd0ee2102f3a52b1771104
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
