@@ -1,12 +1,12 @@
 Package: com.cokepokes.SmartGlass-Clip-Saver
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: deb//com.cokepokes.SmartGlass-Clip-Saver_1.0-1_iphoneos-arm.deb
-Size: 226862
-MD5sum: a153538f8de7d13d27252c6bbafdd927
-SHA1: 343b5a74758ad39388b3ff87c0944e91ea5553ed
-SHA256: 2a53c33eec9bb43c70451ab264e0006e5db86c494bd78e7200b6595b1bc6a67d
+Filename: deb//com.cokepokes.SmartGlass-Clip-Saver_1.0-2_iphoneos-arm.deb
+Size: 226870
+MD5sum: 7d02417980a83955ef778def1982a7a7
+SHA1: c6385a5c52e9c940d5b35f2ac53e5231eee7777e
+SHA256: bc3d5dde10c8ef7941f8ea38bbc4958ebee589500858a0a631b7d3a46493266b
 Section: Tweaks
 Priority: optional
 Description: Download & save SmartGlass game clips to camera roll.
@@ -53,17 +53,17 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 4.5.5-11
+Version: 4.5.5-12
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 6411
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
-Filename: deb//com.cokepokes.phantom_4.5.5-11_iphoneos-arm.deb
-Size: 3261566
-MD5sum: ab848d94a110741019268442d27ddec5
-SHA1: 33c240d061860e8aa0a2cd7d26a3f9ea328dcb5a
-SHA256: b5b761034af47302d762280bda38b8d0b2d61c9361499c3adcc2a377f2d7a4c7
+Filename: deb//com.cokepokes.phantom_4.5.5-12_iphoneos-arm.deb
+Size: 3261830
+MD5sum: e4ee6ebf5ac3eb05216e214c758838fd
+SHA1: 49404177133c5bb0768423e6296330a1290822fa
+SHA256: 80c43a067928e01f9281dd7e1ac35ddc2a3e3622de1683fd4aa78845fd71f640
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
