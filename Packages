@@ -31,16 +31,16 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.libphantom
-Version: 1.0-3
+Version: 1.0-5
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 23111
 Depends: firmware (>= 7.0)
-Filename: deb//com.cokepokes.libPhantom_1.0-3_iphoneos-arm.deb
-Size: 11618052
-MD5sum: d3aca4496f0fef909500c830d9df537e
-SHA1: c7f1ab468ef6242f404077962335f15a0ecb970f
-SHA256: 42fd52de8cd42342bf17cf7ad0148f5f7fc69d75c318724bffb0f4e6fa010ba7
+Filename: deb//com.cokepokes.libphantom_1.0-5_iphoneos-arm.deb
+Size: 12245504
+MD5sum: 45a20860c6265ef4f5919dfad80e3d46
+SHA1: 30bbd2b7e5799f3f588dd1e3f20b9c957a10c119
+SHA256: ddb51be4bd9dc7251f4e5000bf9e8b0187189d77d60ffe3b90902d0c015fa920
 Section: Development
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
@@ -53,17 +53,17 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 4.5.5-12
+Version: 4.5.5-13
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 6411
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
-Filename: deb//com.cokepokes.phantom_4.5.5-12_iphoneos-arm.deb
-Size: 3261830
-MD5sum: e4ee6ebf5ac3eb05216e214c758838fd
-SHA1: 49404177133c5bb0768423e6296330a1290822fa
-SHA256: 80c43a067928e01f9281dd7e1ac35ddc2a3e3622de1683fd4aa78845fd71f640
+Filename: deb//com.cokepokes.phantom_4.5.5-13_iphoneos-arm.deb
+Size: 3261824
+MD5sum: ffb9a6dbf477ac2389e379bd4c2290e9
+SHA1: b4a6c99bf7519fe3ecc5f204d05210e5678079e2
+SHA256: 0986d512d0b9ccfe6ec15e0ff25de6bc309f76693e1232441bbd8532dea590c7
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
