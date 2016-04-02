@@ -16,14 +16,14 @@ Dev: cokepokes
 Name: SmartGlass Clip Saver
 
 Package: com.cokepokes.Snapchat-Volume-Statusbar
-Version: 0.5
+Version: 0.6-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: deb//com.cokepokes.Snapchat-Volume-Statusbar_0.5_iphoneos-arm.deb
-Size: 22012
-MD5sum: 307527ab5e6d65480ba1b7b2fdf34d95
-SHA1: 46102b9df435c42058990cb66abfcd64b7339cd0
-SHA256: d529e081cc39b3879b27cfb0f655e8be735da320a7b575f10f4f320bd9127e12
+Filename: deb//com.cokepokes.Snapchat-Volume-Statusbar_0.6-1_iphoneos-arm.deb
+Size: 23102
+MD5sum: 5abbbd9bda146b4cc0b05808a003ad0d
+SHA1: f5a60db48f708f898f08d5a6477ee882be846ecb
+SHA256: 92ecc4081abc974634fa825274e82a39b6a7a816f4174625cfd708475fa6f7b8
 Section: Tweaks
 Priority: optional
 Description: A fucking awesome mobile substrate tweak!
