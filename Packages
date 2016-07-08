@@ -1,12 +1,12 @@
 Package: com.cokepokes.Masterball
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: deb//com.cokepokes.Masterball_1.0-1_iphoneos-arm.deb
-Size: 9944
-MD5sum: 7a39804a27c7de8e696fb5214ec27cfb
-SHA1: f61e8e0edb05ba999e6a2541ed21eda5e4e75dbc
-SHA256: 0225ce6c480cde10aeed8526b1192dafc88da7dafb0fa248e62dc1882c711497
+Filename: deb//com.cokepokes.Masterball_1.0-2_iphoneos-arm.deb
+Size: 10246
+MD5sum: 8265901f5b6156b20462b82b7cd139b1
+SHA1: d278a6c34f7b52a576571932f0b21d4a3af03c31
+SHA256: 16a9da88f216f72215f937c79cbda1138c918dcfdfe72fc612d0be56efd54b65
 Section: Tweaks
 Priority: optional
 Description: Fixes the startup crash in the Pokemon Go app & hides jailbroken state
