@@ -46,16 +46,16 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.libphantom
-Version: 1.0-5
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 23111
 Depends: firmware (>= 7.0)
-Filename: deb//com.cokepokes.libphantom_1.0-5_iphoneos-arm.deb
-Size: 12245504
-MD5sum: 45a20860c6265ef4f5919dfad80e3d46
-SHA1: 30bbd2b7e5799f3f588dd1e3f20b9c957a10c119
-SHA256: ddb51be4bd9dc7251f4e5000bf9e8b0187189d77d60ffe3b90902d0c015fa920
+Filename: deb//com.cokepokes.libphantom_1.0.1-1_iphoneos-arm.deb
+Size: 11919504
+MD5sum: e8984265d877a20763459612642646dd
+SHA1: 92f8b7f35723933b0175c0c9356fa4a293e5c2d7
+SHA256: bd3ed829bf66ec41b145c29967a9b07af7ef4c245b9aed2fb665ce8e155ada8c
 Section: Development
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
