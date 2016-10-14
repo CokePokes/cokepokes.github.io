@@ -68,17 +68,17 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 4.7.0-5
+Version: 4.7.0-6
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 6411
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
-Filename: deb//com.cokepokes.phantom_4.7.0-5_iphoneos-arm.deb
-Size: 9225108
-MD5sum: 452e5a77936761e67b1a8ac06b9a6283
-SHA1: 4687fdfba6ea04936e30737255ad158d31c899ae
-SHA256: bcc058455b76fefaf5a022978a4fc35b86b88da77ed3cdf06660ee86567488d1
+Filename: deb//com.cokepokes.phantom_4.7.0-6_iphoneos-arm.deb
+Size: 9226862
+MD5sum: f17029ca6e315a00dce91caafdd6fd41
+SHA1: 94b01e83b6246e955162406c8cb5290d641b433b
+SHA256: 668ff00126cd5f916d935efb9749897b69659a889c1eb575d8e26ca7a902b6e9
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
