@@ -68,17 +68,17 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 4.7.2-6
+Version: 4.7.2-7
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 6411
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
-Filename: deb//com.cokepokes.phantom_4.7.2-6_iphoneos-arm.deb
-Size: 9224074
-MD5sum: aaa6502adf6fd8ba5358344bc0b47e5b
-SHA1: 054263897fc1377f233de7b05c79810640da4289
-SHA256: af7cf8276ecf001761d246919bb0d55b379b11d3fc85f1c9a9ceaf9169f38f1b
+Filename: deb//com.cokepokes.phantom_4.7.2-7_iphoneos-arm.deb
+Size: 9225488
+MD5sum: f1e323d88a1376e465b08f5100e9e988
+SHA1: 83110f9c8cdcc203c6faf8ee3fc4dd1c738c03de
+SHA256: 58c0bfc3c2087a0ba9881c0b9a555c8bd8840d5e7af110747fce2c5300ee4e77
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
@@ -92,15 +92,15 @@ Name: Phantom for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phlite
-Version: 1.0.1-1
+Version: 1.0.1-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate, com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.cokepokes.phantom
-Filename: deb//com.cokepokes.phlite_1.0.1-1_iphoneos-arm.deb
-Size: 4786048
-MD5sum: 76631ec726e49589550614ef8ab88294
-SHA1: 8ee6630aa23d8ad9a054092aba7c333eeff8b90b
-SHA256: 4deedd72cb524b5c9b0b30659bb3aed984a1aa7e0105080e6242c79b3b418c78
+Filename: deb//com.cokepokes.phlite_1.0.1-2_iphoneos-arm.deb
+Size: 4785534
+MD5sum: 950cd71ae2b335f75dfc99df1631d8be
+SHA1: 4b984879051383e229bab63f7353a9c43ba72f9a
+SHA256: 8d42d7cf78b7c5d94e50b773d9da1df8e50ab845c2638fafc858f7a5f8f2792d
 Section: Tweaks
 Priority: optional
 Description: Light weight version of Phantom. This version should not get you banned. (No guarantees)
