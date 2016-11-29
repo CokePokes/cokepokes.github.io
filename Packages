@@ -92,15 +92,15 @@ Name: Phantom for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phlite
-Version: 1.0.1-3
+Version: 1.0.1-4
 Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate, com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.cokepokes.phantom
-Filename: deb//com.cokepokes.phlite_1.0.1-3_iphoneos-arm.deb
-Size: 4843666
-MD5sum: 0faa70132e0c0f186bafb3ed6fab03d8
-SHA1: 62e8749c02cc474acbb8378707f21ec7b7e01727
-SHA256: edf0b5e9030400918bcc959b0978cc48fa82181ecd44802adfd49e9d8642017b
+Filename: deb//com.cokepokes.phlite_1.0.1-4_iphoneos-arm.deb
+Size: 4577924
+MD5sum: 6c0f1a252d7767afbe07e61de4053866
+SHA1: 83d3ba5c053ee50b97504209e0ef7cff49adea97
+SHA256: 4d252091ca6b4d91ef6b50dd15a84a92bdc31cc67b8d7a7982bdb92ac64dce81
 Section: Tweaks
 Priority: optional
 Description: Light weight version of Phantom. This version should not get you banned. (No guarantees)
