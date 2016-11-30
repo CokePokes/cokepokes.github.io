@@ -46,16 +46,16 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.libphantom
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 23111
 Depends: firmware (>= 7.0)
-Filename: deb//com.cokepokes.libphantom_1.0.1-1_iphoneos-arm.deb
-Size: 11919504
-MD5sum: e8984265d877a20763459612642646dd
-SHA1: 92f8b7f35723933b0175c0c9356fa4a293e5c2d7
-SHA256: bd3ed829bf66ec41b145c29967a9b07af7ef4c245b9aed2fb665ce8e155ada8c
+Filename: deb//com.cokepokes.libphantom_1.0.2-1_iphoneos-arm.deb
+Size: 11920338
+MD5sum: ff0ba5d9a0a64875f437b85893a6fc61
+SHA1: 46b30299d2ef20c4d80d2b4374362fc6278fa879
+SHA256: 5e23f043b4845d61627fd736771e500dd75ca5acfb3c72436c004c975ea23241
 Section: Development
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
@@ -92,15 +92,15 @@ Name: Phantom for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phlite
-Version: 1.0.1-4
+Version: 1.0.1-5
 Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate, com.cokepokes.libphantom (>= 1.0-3)
 Conflicts: com.cokepokes.phantom
-Filename: deb//com.cokepokes.phlite_1.0.1-4_iphoneos-arm.deb
-Size: 4577924
-MD5sum: 6c0f1a252d7767afbe07e61de4053866
-SHA1: 83d3ba5c053ee50b97504209e0ef7cff49adea97
-SHA256: 4d252091ca6b4d91ef6b50dd15a84a92bdc31cc67b8d7a7982bdb92ac64dce81
+Filename: deb//com.cokepokes.phlite_1.0.1-5_iphoneos-arm.deb
+Size: 4578408
+MD5sum: f3fa2a6946f5cd712345da80f139342c
+SHA1: 66be55807a5667bd24dfe10be7cbe26df2db004f
+SHA256: 2da6a575c77063266c0171cca0cae55e80d0effcf16ad361c25f16360d72216f
 Section: Tweaks
 Priority: optional
 Description: Light weight version of Phantom. This version should not get you banned. (No guarantees)
