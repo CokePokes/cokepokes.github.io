@@ -97,13 +97,13 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: com.cokepokes.phantom, com.pantsthief.snapchatnoclickbait, com.abcapps.snapplus, com.drp.snapmaster, com.timecompiler.snapchatlog, com.ridan.snapchatinit
 Filename: deb//com.cokepokes.phlite_1.0.3-1_iphoneos-arm.deb
-Size: 5880466
-MD5sum: b4c2b33a01cfad3bc607342edb16f3e8
-SHA1: fc15ea263d7e5e6c25852baf03515f77f632c69b
-SHA256: b0b5e7330f62fe8fa232628c4cd7c238138cb71e591693fa574c2ae41e574aaf
+Size: 5880480
+MD5sum: 6738a1ee1525437f998288e93aa20e39
+SHA1: da3c32f631cd95ebc3790789e3dd1dd04e930a63
+SHA256: 93bc3a8b745fe4b29155657e819754e5f5fd285ed1dab2ea89a6a35d023bcb9d
 Section: Tweaks
 Priority: optional
-Description: Light weight version of Phantom. This version should not get you banned & get passed the Cannot Connect Error. (No guarantees)
+Description: Light weight version of Phantom. This version should not get you banned & get past the Cannot Connect Error. (No guarantees)
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Author: CokePokes
 Dev: cokepokes
