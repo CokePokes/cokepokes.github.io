@@ -2,7 +2,7 @@ Package: com.cokepokes.Masterball
 Version: 1.1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: deb//com.cokepokes.Masterball_1.1_iphoneos-arm.deb
+Filename: deb/com.cokepokes.Masterball_1.1_iphoneos-arm.deb
 Size: 11058
 MD5sum: 8c4291cddde567556cdd1411a6513900
 SHA1: 70c0cb766e2ea569d198bad6049bdbf2d2e30731
@@ -17,7 +17,7 @@ Package: com.cokepokes.SmartGlass-Clip-Saver
 Version: 1.0-2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: deb//com.cokepokes.SmartGlass-Clip-Saver_1.0-2_iphoneos-arm.deb
+Filename: deb/com.cokepokes.SmartGlass-Clip-Saver_1.0-2_iphoneos-arm.deb
 Size: 226870
 MD5sum: 7d02417980a83955ef778def1982a7a7
 SHA1: c6385a5c52e9c940d5b35f2ac53e5231eee7777e
@@ -34,7 +34,7 @@ Package: com.cokepokes.Snapchat-Volume-Statusbar
 Version: 0.7-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: deb//com.cokepokes.Snapchat-Volume-Statusbar_0.7-1_iphoneos-arm.deb
+Filename: deb/com.cokepokes.Snapchat-Volume-Statusbar_0.7-1_iphoneos-arm.deb
 Size: 23828
 MD5sum: 9cc1e98076c8b780e3d45ce173f5bb3b
 SHA1: d8cf81f4e003bac9f3fb838e385ea7545cb19231
@@ -51,7 +51,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 23111
 Depends: firmware (>= 7.0)
-Filename: deb//com.cokepokes.libphantom_1.0.2-1_iphoneos-arm.deb
+Filename: deb/com.cokepokes.libphantom_1.0.2-1_iphoneos-arm.deb
 Size: 11920338
 MD5sum: ff0ba5d9a0a64875f437b85893a6fc61
 SHA1: 46b30299d2ef20c4d80d2b4374362fc6278fa879
@@ -68,45 +68,26 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 4.7.2-9
+Version: 5.1.0-0
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 6411
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
-Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
-Filename: deb//com.cokepokes.phantom_4.7.2-9_iphoneos-arm.deb
-Size: 9219096
-MD5sum: 7fbe571f5665ad21ddbf2613cb9d2215
-SHA1: ec37ddb912c80634feb76039fef97af6d85c023d
-SHA256: 2272dc7dcd902b2bc61a0c963d1b43a8b278c21702e1cc5fdc6d8972455677a2
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Filename: deb/com.cokepokes.phantom_5.1.0-0_iphoneos-arm.deb
+Size: 12233154
+MD5sum: 3a20dd2f3232eca24ebb0362dfcb3cdf
+SHA1: 131d7a60c010cb6b45c91c77904368b9ee512b93
+SHA256: 7bd25893c78b511b0e5228176777854f32aa65133f2632b48f2c301780f7ad78
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
-Description: Break nearly all of Snapchat's limits
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection. Currently this is the only Snapchat tweak that works without triggering a connection error or ban!
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
 Author: CokePokes <cokepokes@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
 Dev: cokepokes
-Icon: file:///Library/PreferenceBundles/phantom.bundle/phantomIcon@2x.png
-Name: Phantom for Snapchat
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Name: Phantom (Lite) for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.cokepokes.phlite
-Version: 1.1.1-0
-Architecture: iphoneos-arm
-Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: com.cokepokes.phantom, com.pantsthief.snapchatnoclickbait, com.abcapps.snapplus, com.drp.snapmaster, com.timecompiler.snapchatlog, com.ridan.snapchatinit, com.cokepokes.libphantom
-Replaces: com.cokepokes.phantom
-Filename: deb//com.cokepokes.phlite_1.1.1-0_iphoneos-arm.deb
-Size: 7234906
-MD5sum: 2f040b627265ec07024f397274cb1bcd
-SHA1: a581c4958008d7b629d5fa7e79ad547f40b863fa
-SHA256: 9cabbb4d04b1a13978866af0cfd0f577fba19b32057818054de8d6a82e3a7c0f
-Section: Tweaks
-Priority: optional
-Description: Light weight version of Phantom. This version should not get you banned & get past the Cannot Connect Error. (No guarantees)
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
-Author: CokePokes
-Dev: cokepokes
-Name: Snap+++ (Phantom Lite) 😏
 
