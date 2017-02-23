@@ -67,3 +67,27 @@ Dev: cokepokes
 Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.phantom
+Version: 5.3.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Filename: deb/com.cokepokes.phantom_5.3.2-1_iphoneos-arm.deb
+Size: 14428688
+MD5sum: 93c1e97805d9d5b3d00ebd7b4355f4d3
+SHA1: 5db07cf8d72cdf55f3049bff7ba7e9ba49d5e518
+SHA256: 640cbcfb904e302d744b2ba8f9a8aeead006bd9efce55758176f47315512ab51
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection. Currently this is the only Snapchat tweak that works without triggering a connection error or ban!
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Name: Phantom (Lite) for Snapchat
+Sponsor: thebigboss.org <http://thebigboss.org>
+
