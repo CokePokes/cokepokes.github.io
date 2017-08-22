@@ -13,6 +13,20 @@ Description: Fixes the startup crash in the Pokemon Go app & hides jailbroken st
 Author: CokePokes
 Name: Masterball
 
+Package: com.cokepokes.Nestboard
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator (>= 1.8.3)
+Filename: deb/com.cokepokes.Nestboard_1.0-2_iphoneos-arm.deb
+Size: 1105212
+MD5sum: 2f55906f6621074b17f1ff10bfd89095
+SHA1: a628d17c1c8a37252d1e6595361618b47800e73d
+SHA256: 9905e6be0903e415c3cc41fa4081e14699ec73dcd62bca7bfd695b90ccbb04e0
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: Nestboard
+
 Package: com.cokepokes.SmartGlass-Clip-Saver
 Version: 1.0-2
 Architecture: iphoneos-arm
