@@ -105,3 +105,17 @@ Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
 Name: Phantom (Lite) for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.laughingquoll.Siliqua
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: deb/com.laughingquoll.Siliqua_1.0-2_iphoneos-arm.deb
+Size: 26842
+MD5sum: 610a1b15502f9d12da3829b8c4918fb0
+SHA1: db906edcaf858d518ae64fd37f5f9c6f2453f559
+SHA256: db46e016508430d29a2be474dcf2ae09f89e3bcf0a7203069937e0afdcbabd6e
+Section: Tweaks
+Priority: optional
+Author: laughingquoll
+Name: Siliqua
+
