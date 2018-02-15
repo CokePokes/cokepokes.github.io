@@ -105,6 +105,20 @@ Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
 Name: Phantom (Lite) for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.tumblrinf
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.tumblrinf_0.1-1_iphoneos-arm.deb
+Size: 134144
+MD5sum: 7a40cb5fda811c6cb55b0784b177356b
+SHA1: 266d0aa6b3fbf7e8e1a7109f1877dc2a8d50c756
+SHA256: 2e380e088e94cf6b1d36a09b4c2657b95caa1d06dfc7f123248d2926d3c7e087
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: Tumblr ∞
+
 Package: com.laughingquoll.Siliqua
 Version: 1.0-2
 Architecture: iphoneos-arm
