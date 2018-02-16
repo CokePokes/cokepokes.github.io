@@ -106,14 +106,14 @@ Name: Phantom (Lite) for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.snapdecent
-Version: 0.1-1
+Version: 0.2-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: deb/com.cokepokes.snapdecent_0.1-1_iphoneos-arm.deb
-Size: 26290
-MD5sum: f0123c79e3576d07859f7c1cf1d9ec98
-SHA1: cda1d49b49e2a1aa7d70411b8a98213c2caa8f3c
-SHA256: 4731e2c8877d9b6de4a06f01f7663ebe4b017351d492b8517a51674de16793df
+Filename: deb/com.cokepokes.snapdecent_0.2-1_iphoneos-arm.deb
+Size: 27454
+MD5sum: f4b8e727a57e175872882b8ff27dc328
+SHA1: d32ee467849a3e3dc51ddf3730477ca395d2b1fd
+SHA256: 0497900b43fcd4c7ef426a1e4641deaf5bb641a9604f5828ae3e4bc27a8de075
 Section: Tweaks
 Priority: optional
 Description: Uses a file modification on every Snapchat app launch to revert back to the cool user interface. FOR THE IDIOTS: ENABLES OLD SNAPCHAT LOOK
