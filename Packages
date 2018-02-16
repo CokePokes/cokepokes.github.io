@@ -105,19 +105,20 @@ Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
 Name: Phantom (Lite) for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.cokepokes.tumblrinf
+Package: com.cokepokes.snapdecent
 Version: 0.1-1
 Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: deb/com.cokepokes.tumblrinf_0.1-1_iphoneos-arm.deb
-Size: 134144
-MD5sum: 7a40cb5fda811c6cb55b0784b177356b
-SHA1: 266d0aa6b3fbf7e8e1a7109f1877dc2a8d50c756
-SHA256: 2e380e088e94cf6b1d36a09b4c2657b95caa1d06dfc7f123248d2926d3c7e087
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.snapdecent_0.1-1_iphoneos-arm.deb
+Size: 26290
+MD5sum: f0123c79e3576d07859f7c1cf1d9ec98
+SHA1: cda1d49b49e2a1aa7d70411b8a98213c2caa8f3c
+SHA256: 4731e2c8877d9b6de4a06f01f7663ebe4b017351d492b8517a51674de16793df
 Section: Tweaks
 Priority: optional
+Description: Uses a file modification on every Snapchat app launch to revert back to the cool user interface. FOR THE IDIOTS: ENABLES OLD SNAPCHAT LOOK
 Author: CokePokes
-Name: Tumblr ∞
+Name: snapdecent
 
 Package: com.laughingquoll.Siliqua
 Version: 1.0-2
