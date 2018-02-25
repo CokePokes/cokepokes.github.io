@@ -120,6 +120,21 @@ Description: Uses a file modification on every Snapchat app launch to revert bac
 Author: CokePokes
 Name: snapdecent
 
+Package: com.cokepokes.teluguremove
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0)
+Filename: deb/com.cokepokes.teluguremove_0.1-1_iphoneos-arm.deb
+Size: 53894
+MD5sum: ab1c20d5f6ff6d35cfb90c89ca30d097
+SHA1: 4f61acde7c04d983921fbbcf5841204500cb6ce5
+SHA256: 5467bef77c5044c3bb623105b30f743565047c81966b83eef1970af50a250179
+Section: System
+Priority: optional
+Description: This package is only a script that runs during installation. It renames the font file to KohinoorTelugu.ttc.nope and reverts back when this package is uninstalled.
+Author: CokePokes
+Name: teluguremove
+
 Package: com.laughingquoll.Siliqua
 Version: 1.0-2
 Architecture: iphoneos-arm
