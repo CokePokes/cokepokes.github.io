@@ -121,14 +121,14 @@ Author: CokePokes
 Name: snapdecent
 
 Package: com.cokepokes.teluguremove
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0)
-Filename: deb/com.cokepokes.teluguremove_0.1-1_iphoneos-arm.deb
-Size: 53894
-MD5sum: ab1c20d5f6ff6d35cfb90c89ca30d097
-SHA1: 4f61acde7c04d983921fbbcf5841204500cb6ce5
-SHA256: 5467bef77c5044c3bb623105b30f743565047c81966b83eef1970af50a250179
+Filename: deb/com.cokepokes.teluguremove_0.1-2_iphoneos-arm.deb
+Size: 54886
+MD5sum: 2cd6f11d4551d383bc345324628128d6
+SHA1: 9abfabb31de3b6f16f4761c7668bb7d9526a52a5
+SHA256: 4206198bf90566236df86478747a269e3624501647f16edd22608e2a6e66520c
 Section: System
 Priority: optional
 Description: This package is only a script that runs during installation. It renames the font file to KohinoorTelugu.ttc.nope and reverts back when this package is uninstalled.
