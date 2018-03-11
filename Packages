@@ -120,6 +120,22 @@ Description: Uses a file modification on every Snapchat app launch to revert bac
 Author: CokePokes
 Name: snapdecent
 
+Package: com.cokepokes.spectre
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.abcapps.snapplus, tv.othman.scothman
+Replaces: com.cokepokes.phantom
+Filename: deb/com.cokepokes.spectre_0.1-1_iphoneos-arm.deb
+Size: 2045912
+MD5sum: b051e524eacbb15e548e59bc7f0b2483
+SHA1: 6f2bd6162cd5b1fb891befd076f1705763a6479c
+SHA256: 3231f95012f6e4f8ee4fb16e62223d706bee8603fff3ab03b4d6194beac85b31
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: Spectre (formally Phantom)
+
 Package: com.cokepokes.teluguremove
 Version: 0.1-2
 Architecture: iphoneos-arm
