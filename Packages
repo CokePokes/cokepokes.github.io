@@ -121,18 +121,20 @@ Author: CokePokes
 Name: snapdecent
 
 Package: com.cokepokes.spectre
-Version: 0.1-1
+Version: 0.1-3
 Architecture: iphoneos-arm
+Maintainer: CokePokes
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.abcapps.snapplus, tv.othman.scothman
 Replaces: com.cokepokes.phantom
-Filename: deb/com.cokepokes.spectre_0.1-1_iphoneos-arm.deb
-Size: 2045912
-MD5sum: b051e524eacbb15e548e59bc7f0b2483
-SHA1: 6f2bd6162cd5b1fb891befd076f1705763a6479c
-SHA256: 3231f95012f6e4f8ee4fb16e62223d706bee8603fff3ab03b4d6194beac85b31
+Filename: deb/com.cokepokes.spectre_0.1-3_iphoneos-arm.deb
+Size: 2044514
+MD5sum: 364559c5ec958c6d22e6ff8db7b8e867
+SHA1: dc6c3f484c6499d97e93b3668f41ab52e9d24de0
+SHA256: a6914cdfb4484c89f3dd5aca728e1934c8a6b6258f5524ac2c11edc89b8ecc4f
 Section: Tweaks
 Priority: optional
+Description: Only saves Snaps for now...
 Author: CokePokes
 Name: Spectre (formally Phantom)
 
