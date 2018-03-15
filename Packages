@@ -59,6 +59,21 @@ Description: A fucking awesome mobile substrate tweak!
 Author: CokePokes
 Name: Snapchat Volume Statusbar
 
+Package: com.cokepokes.fucklargetitles
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: deb/com.cokepokes.fucklargetitles_0.1-1_iphoneos-arm.deb
+Size: 32764
+MD5sum: d10049e01ff9c5ded86034fdbff23898
+SHA1: 72ef9b0f382906e83cf5cd604f63fc5ac5132dd3
+SHA256: 15cb15300724b48df403940352565b2de92b5226346bdb3d9c7c86e4bf5af321
+Section: Tweaks
+Priority: optional
+Description: Removes the redeckulous iOS11 HUGE titles in Apps
+Author: CokePokes
+Name: fucklargetitles
+
 Package: com.cokepokes.libphantom
 Version: 1.0.2-1
 Architecture: iphoneos-arm
