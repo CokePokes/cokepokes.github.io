@@ -60,14 +60,15 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.fucklargetitles
-Version: 0.1-1
+Version: 0.2-1
 Architecture: iphoneos-arm
+Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: deb/com.cokepokes.fucklargetitles_0.1-1_iphoneos-arm.deb
-Size: 32764
-MD5sum: d10049e01ff9c5ded86034fdbff23898
-SHA1: 72ef9b0f382906e83cf5cd604f63fc5ac5132dd3
-SHA256: 15cb15300724b48df403940352565b2de92b5226346bdb3d9c7c86e4bf5af321
+Filename: deb/com.cokepokes.fucklargetitles_0.2-1_iphoneos-arm.deb
+Size: 33124
+MD5sum: b8aa492de57b446a625961999d32ac42
+SHA1: 1c7741e0e1dcdc7a7f0d21bbc0d2c3c7cb7d9d64
+SHA256: 9e112bbc15c97180781a2547896d541edb410efd88e431305b3dfc7803956f32
 Section: Tweaks
 Priority: optional
 Description: Removes the redeckulous iOS11 HUGE titles in Apps
@@ -167,6 +168,24 @@ Priority: optional
 Description: This package is only a script that runs during installation. It renames the font file to KohinoorTelugu.ttc.nope and reverts back when this package is uninstalled.
 Author: CokePokes
 Name: teluguremove
+
+Package: com.cokepokes.watchUtilsSB
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: deb/com.cokepokes.watchUtilsSB_0.1-1_iphoneos-arm.deb
+Size: 13820
+MD5sum: 0013dccc1e2c8c4ee1d6c5e4060af44e
+SHA1: 03a0084b24ee937a9a0ce7dbc4c73ffb2f44104d
+SHA256: 5bfa57fc4874b18c01572416d9e7c8750d9ea97883ea18e8e6cc85d27137dbe1
+Section: Tweaks
+Priority: optional
+Homepage: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f
+Description: This tweak is useless without the companion app found here https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f
+Author: CokePokes
+Depiction: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f/b6ddb1801b4b72036f6cd492d51394a225bac89e
+Name: Core WatchUtils
 
 Package: com.laughingquoll.Siliqua
 Version: 1.0-2
