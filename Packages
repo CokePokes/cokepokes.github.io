@@ -170,15 +170,15 @@ Author: CokePokes
 Name: teluguremove
 
 Package: com.cokepokes.watchUtilsSB
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6)
-Filename: deb/com.cokepokes.watchUtilsSB_0.1-1_iphoneos-arm.deb
-Size: 13820
-MD5sum: 0013dccc1e2c8c4ee1d6c5e4060af44e
-SHA1: 03a0084b24ee937a9a0ce7dbc4c73ffb2f44104d
-SHA256: 5bfa57fc4874b18c01572416d9e7c8750d9ea97883ea18e8e6cc85d27137dbe1
+Filename: deb/com.cokepokes.watchUtilsSB_0.1-2_iphoneos-arm.deb
+Size: 13776
+MD5sum: cfeb1a6dc2b0bb81a20e88ce646683c0
+SHA1: f3e19c84e0283bb8af08a52c3676fbbe19185f0d
+SHA256: 647397c7a10d57d46e8ea1e8f7947b7430a82ee68596452bf4bc7679e9b04c32
 Section: Tweaks
 Priority: optional
 Homepage: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f
