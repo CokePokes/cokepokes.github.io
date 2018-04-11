@@ -1,3 +1,20 @@
+Package: com.cokepokes.AutoFaceIDUnlockX
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.spark.autounlockx, com.cpdigitaldarkroom.fastunlockx
+Filename: deb/com.cokepokes.AutoFaceIDUnlockX_0.1-1_iphoneos-arm.deb
+Size: 34346
+MD5sum: 884cfa1b974903eedb28d8ca2841992d
+SHA1: bab702e5e80462dec998e0989a9cf50ea0bd1790
+SHA256: 40e55e9ddf6d942860a21c8a2bde1b7afdb1e81cbf5999d92bfb8a388a2e9ff3
+Section: Tweaks
+Priority: optional
+Description: Probably the fastest auto face unlock tweak available for the iPhoneX. No options to configure...yet
+Author: CokePokes
+Name: AutoFaceIDUnlockX
+
 Package: com.cokepokes.Masterball
 Version: 1.1
 Architecture: iphoneos-arm
