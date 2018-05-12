@@ -76,6 +76,22 @@ Description: A fucking awesome mobile substrate tweak!
 Author: CokePokes
 Name: Snapchat Volume Statusbar
 
+Package: com.cokepokes.anobioalert
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.anobioalert_0.1-1_iphoneos-arm.deb
+Size: 12268
+MD5sum: 88872f3702bfd7707ac686d45ef4a56e
+SHA1: ca134c90314a3234a3daa26b22fdbb223c86f395
+SHA256: 7a26e73ab0563491d8cd0e7a8c57ba54d17d46cd8ca19ca5cdbd5c62f4145c0e
+Section: Tweaks
+Priority: optional
+Description: Scraps the annoying alert in BioProtect when "PhotoLibrary Forced Protection" is enabled.
+Author: CokePokes
+Name: Fuck BioProtect Alert
+
 Package: com.cokepokes.fucklargetitles
 Version: 0.2-1
 Architecture: iphoneos-arm
