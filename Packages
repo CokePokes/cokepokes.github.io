@@ -154,17 +154,17 @@ Author: CokePokes
 Name: snapdecent
 
 Package: com.cokepokes.spectre
-Version: 0.3-1
+Version: 0.3-2
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver
 Replaces: com.cokepokes.phantom
-Filename: deb/com.cokepokes.spectre_0.3-1_iphoneos-arm.deb
-Size: 238456
-MD5sum: 69ab22d197f8c2ce6cf03bd9959dc35c
-SHA1: eefae36e2075b5a0d033ad4aba85afcde9ce2c28
-SHA256: 947fe64eb58dd53e8438e28da0c1ca8b6e5a4b5bc6b1140d20fd458423a2db2c
+Filename: deb/com.cokepokes.spectre_0.3-2_iphoneos-arm.deb
+Size: 238664
+MD5sum: f6b30a0c495fea871654fe29e71a88d9
+SHA1: ff5928bd9679a3467e400700a4c274cf63825239
+SHA256: 4ad4349685ab501cc4537a047bc00d48e3ebf651bbe779315921fe840db2090b
 Section: Tweaks
 Priority: optional
 Description: Tweaked Snapchat. Right now, it only saves Snaps. **Note: It is incompatible with every Unlimapps tweak since Snapchat checks for uasharedtools. (Eh, it's bloatware anyways. You're better without it.)
