@@ -76,22 +76,6 @@ Description: A fucking awesome mobile substrate tweak!
 Author: CokePokes
 Name: Snapchat Volume Statusbar
 
-Package: com.cokepokes.anobioalert
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: deb/com.cokepokes.anobioalert_0.1-1_iphoneos-arm.deb
-Size: 12268
-MD5sum: 88872f3702bfd7707ac686d45ef4a56e
-SHA1: ca134c90314a3234a3daa26b22fdbb223c86f395
-SHA256: 7a26e73ab0563491d8cd0e7a8c57ba54d17d46cd8ca19ca5cdbd5c62f4145c0e
-Section: Tweaks
-Priority: optional
-Description: Scraps the annoying alert in BioProtect when "PhotoLibrary Forced Protection" is enabled.
-Author: CokePokes
-Name: Fuck BioProtect Alert
-
 Package: com.cokepokes.fucklargetitles
 Version: 0.2-1
 Architecture: iphoneos-arm
@@ -170,22 +154,22 @@ Author: CokePokes
 Name: snapdecent
 
 Package: com.cokepokes.spectre
-Version: 0.1-4
+Version: 0.3-1
 Architecture: iphoneos-arm
 Maintainer: CokePokes
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.abcapps.snapplus, tv.othman.scothman
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver
 Replaces: com.cokepokes.phantom
-Filename: deb/com.cokepokes.spectre_0.1-4_iphoneos-arm.deb
-Size: 2044324
-MD5sum: be3c076d7fae245ccf8c161897f0c371
-SHA1: 1ba34f39a5896691f2a896692a9b6f983e6491a9
-SHA256: 3840e7edbb7f57f0bbe9edca2e697ac93cb7f62ea8af05cd4f1aec7d0ed3b20b
+Filename: deb/com.cokepokes.spectre_0.3-1_iphoneos-arm.deb
+Size: 238456
+MD5sum: 69ab22d197f8c2ce6cf03bd9959dc35c
+SHA1: eefae36e2075b5a0d033ad4aba85afcde9ce2c28
+SHA256: 947fe64eb58dd53e8438e28da0c1ca8b6e5a4b5bc6b1140d20fd458423a2db2c
 Section: Tweaks
 Priority: optional
-Description: Only saves Snaps for now...
+Description: Tweaked Snapchat. Right now, it only saves Snaps. **Note: It is incompatible with every Unlimapps tweak since Snapchat checks for uasharedtools. (Eh, it's bloatware anyways. You're better without it.)
 Author: CokePokes
-Name: Spectre (formally Phantom)
+Name: Spectre [Beta] (formally Phantom)
 
 Package: com.cokepokes.teluguremove
 Version: 0.1-2
