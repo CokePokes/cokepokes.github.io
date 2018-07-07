@@ -138,6 +138,21 @@ Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
 Name: Phantom (Lite) for Snapchat
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.phantomremoval
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Filename: deb/com.cokepokes.phantomremoval_0.1-1_iphoneos-arm.deb
+Size: 25272
+MD5sum: 094030a8adb8e8245e5a5812bfaed514
+SHA1: 0e608933cab5b08a20d9c1a0a63a449a56baf3d1
+SHA256: 6982a48b16d9932ac359db01eca2a3ff8e6203a5f86a7a827f6bc4bf0f2ea60e
+Section: System
+Priority: optional
+Description: Fixes the removal errors you get after installing Phantom. Please uninstall Phantom after installing this package, then uninstall this pacakge.
+Author: CokePokes
+Name: Phantom Lite Error Remover
+
 Package: com.cokepokes.snapdecent
 Version: 0.2-2
 Architecture: iphoneos-arm
