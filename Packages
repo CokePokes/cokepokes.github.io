@@ -81,15 +81,15 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: deb/com.cokepokes.betterarlosound_0.1-1_iphoneos-arm.deb
-Size: 491400
-MD5sum: e53c90e207ffe37f1bd3e5be7d57d81e
-SHA1: 5529ae8477fdd5a99e1bfd81ea57f159f02ed279
-SHA256: a563a2866f992f51350c3234149af8b1b98b35ba53882a9420f43b6d99fd017e
+Size: 491398
+MD5sum: 44a31eae37a810a40d399504d5e1e9a3
+SHA1: ed2382832392536538e9a33a35da3103e929e17e
+SHA256: 5339e0682d7a466d076bc9ae2f688734692dde68331576ed8337200d33a508cd
 Section: Tweaks
 Priority: optional
 Description: Makes the Arlo app notification fucking annoying. Perfect for ruining your sleep & figuring out someone is trying to break into your car resulting in having to pay a $500 deductible to your insurance company...because someone fucked with something you earned with your hard earned money. Fuck thieves, buy your own shit or get educated & find a better job. Also skrew people who don't recycle. Betches.
 Author: CokePokes
-Name: BetterArloAlert
+Name: ArloAlertOnCrack
 
 Package: com.cokepokes.fucklargetitles
 Version: 0.2-1
