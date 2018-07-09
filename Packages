@@ -77,14 +77,14 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.betterarlosound
-Version: 0.1-2
+Version: 0.1-3
 Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: deb/com.cokepokes.betterarlosound_0.1-2_iphoneos-arm.deb
-Size: 491398
-MD5sum: fb2d486790b3c3666cd064dd009a798b
-SHA1: 204fc3967a20cbfb91a9cf7fb0b33ace67eec124
-SHA256: 66651e7322d682f8964daf72463960ce226261aed3c1a76fc2a826b5e202ad84
+Filename: deb/com.cokepokes.betterarlosound_0.1-3_iphoneos-arm.deb
+Size: 490990
+MD5sum: 7d4d68c56ec614273f54c5b648d793c1
+SHA1: 61f524a9a141897ef954c623340ea0937cc0a50d
+SHA256: ff869b2eda188857bbb9dafce37c4ac4e687b586858f59ee9bb0b335f2fde651
 Section: Tweaks
 Priority: optional
 Description: Makes the Arlo app notification fucking annoying. Perfect for ruining your sleep & figuring out someone is trying to break into your car resulting in having to pay a $500 deductible to your insurance company...because someone fucked with something you earned with your hard earned money. Fuck thieves, buy your own shit or get educated & find a better job. Also skrew people who don't recycle. Betches.
