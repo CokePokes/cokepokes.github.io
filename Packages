@@ -129,30 +129,6 @@ Dev: cokepokes
 Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.cokepokes.phantom
-Version: 5.3.8-6
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
-Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
-Replaces: com.cokepokes.phlite
-Filename: deb/com.cokepokes.phantom_5.3.8-6_iphoneos-arm.deb
-Size: 7977440
-MD5sum: 13c6249a34dc886531ebe91d2d8b264c
-SHA1: 02d42c39aa1f955146908d69ba34456278721325
-SHA256: 6d23b8d4739068863d3e8c00340af4cf6772553290feb6dd903c1d4b4b80af5d
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
-Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection. Currently this is the only Snapchat tweak that works without triggering a connection error or ban! Works only on Snapchat 10.22 & below
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
-Author: CokePokes <cokepokes@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
-Dev: cokepokes
-Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
-Name: Phantom (Lite) for Snapchat
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.cokepokes.snapdecent
 Version: 0.2-2
 Architecture: iphoneos-arm
@@ -169,17 +145,17 @@ Author: CokePokes
 Name: snapdecent
 
 Package: com.cokepokes.spectre
-Version: 0.3-22
+Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, shell-cmds
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor
 Replaces: com.cokepokes.phantom
-Filename: deb/com.cokepokes.spectre_0.3-22_iphoneos-arm.deb
-Size: 502266
-MD5sum: b4e1fa3d1fc995c6b8b273a26d11e204
-SHA1: 038eb00c47fa408391a9e727c75dc1a4a78f3ded
-SHA256: 4451dc66f90daa1747e2666c6c097047642afed88d1ad056ce485967c45e0bd2
+Filename: deb/com.cokepokes.spectre_0.4_iphoneos-arm.deb
+Size: 504408
+MD5sum: 04cffb7b01f8acb09f53ae4c3425fdf9
+SHA1: 0bd2133f97e7e1be6df16ec9a7720e3d7edd4a6e
+SHA256: d1a5285023695e4c083fc0575b450effdfffe560a1e8bdb7a2d54ae86bebd158
 Section: Tweaks
 Priority: optional
 Description: Tweaked Snapchat. Works on Snapchat 10.36.0.23. Right now, it only saves Snaps. **Note: It is incompatible with every Unlimapps tweak since Snapchat checks for uasharedtools. (Eh, it's bloatware anyways. You're better without it.)
