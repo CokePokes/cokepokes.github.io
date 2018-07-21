@@ -77,16 +77,16 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.appstoreplusplus
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.appadmin
-Filename: deb/com.cokepokes.appstoreplusplus_0.2_iphoneos-arm.deb
-Size: 688594
-MD5sum: f9fbd704c5f24d2d54fb0deb981aab5e
-SHA1: 9285efba13c67a2db6cc03a73dc4c89f765058e7
-SHA256: da65f9fb60fee94647270ecf0381f962cf7dc5ed3be1c205b730f7cc89184c11
+Filename: deb/com.cokepokes.appstoreplusplus_0.3_iphoneos-arm.deb
+Size: 686660
+MD5sum: 8f9ba377fb699b334356d8905cd84e91
+SHA1: d541f960e00a92f6f16bf3c888e4085b7940ac1f
+SHA256: 37583fa536ebf85302578b87bfb2a7ed9ac14fab9e31c0e174fbdd7738bfebf2
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11.
