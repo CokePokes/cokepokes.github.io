@@ -83,15 +83,15 @@ Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.appadmin
 Filename: deb/com.cokepokes.appstoreplusplus_0.6-1_iphoneos-arm.deb
-Size: 776806
-MD5sum: 94671ee4646eb00a32c62cb56301b96e
-SHA1: 1460fe90ea24ab0cd970515f51715c117abfcfd5
-SHA256: 77bce111883fef488b376809ca4e0178b7443f2c8ce9ff93e5223117bce45b77
+Size: 776794
+MD5sum: d8073743cd99b61bfa2069f6747fd6bc
+SHA1: e4f7dbb2ad384bb5899a74b70b18a95a1e58802d
+SHA256: 00cbf667966ab53da704eaa0234d8c69c641dba45ae306852f7177ad7b423776
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11.
 Author: CokePokes
-Depiction: https://github.com/CokePokes/cokepokes.github.io/blob/master/depiction/appstoreplus.html
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
 Package: com.cokepokes.betterarlosound
