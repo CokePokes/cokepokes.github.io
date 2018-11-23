@@ -229,6 +229,26 @@ Author: CokePokes
 Depiction: https://gist.github.com/CokePokes/9ad9eb5578c94418f437b39475f75e2f/b6ddb1801b4b72036f6cd492d51394a225bac89e
 Name: Core WatchUtils
 
+Package: com.greeny.restats
+Version: 1.1-28
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 408
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Conflicts: com.greeny.autostatisticsreset
+Filename: deb/com.greeny.restats_1.1-28_iphoneos-arm.deb
+Size: 223410
+MD5sum: 8d0bd8c033579cd141ca7e111a20a4f2
+SHA1: e10b4c473541a74db5d9a3a52f979803463c3c3b
+SHA256: 07fd425138bfe519aff49276368535367934d67b13b5193c020d6076612a09c0
+Section: Tweaks
+Description: Updated by CokePokes to work on iOS9-iOS11. Choose day to auto-reset Cellular stats
+Tag: purpose::extension, ios7support::1, ios8support::1, ios9support::1, ios10support::1, ios11support::1
+Author: GreenyDev <greenydev@greenmail.net.au>
+Dev: greeny
+Icon: file:///Library/PreferenceBundles/RCSPrefs.bundle/RCSPrefs@2x.png
+Name: ReStats
+
 Package: com.laughingquoll.Siliqua
 Version: 1.0-2
 Architecture: iphoneos-arm
