@@ -24,7 +24,7 @@
           ],
           "ipad": {
             "itemCornerRadius": 9,
-            "itemSize": "{320, 550.8266666666667}",
+            "itemSize": "{320, 640}",
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
