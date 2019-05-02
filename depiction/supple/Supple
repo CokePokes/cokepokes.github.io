@@ -18,8 +18,8 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cokepokes.github.io/depiction/supple/screenshot1.png",
-              "fullSizeURL": "https://cokepokes.github.io/depiction/supple/screenshot1.png"
+              "url": "https://cokepokes.github.io/depiction/supple/screenshot1.html",
+              "fullSizeURL": "https://cokepokes.github.io/depiction/supple/screenshot1.html"
             }
           ],
           "ipad": {
@@ -28,8 +28,8 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cokepokes.github.io/depiction/supple/screenshot1.png?size=640",
-                "fullSizeURL": "https://cokepokes.github.io/depiction/supple/screenshot1.png"
+                "url": "https://cokepokes.github.io/depiction/supple/screenshot1.html?size=640",
+                "fullSizeURL": "https://cokepokes.github.io/depiction/supple/screenshot1.html"
               }
             ],
             "class": "DepictionScreenshotView"
@@ -72,7 +72,7 @@
         },
         {
           "title": "Price",
-          "text": "Free",
+          "text": "0.00",
           "class": "DepictionTableTextView"
         },
         {
