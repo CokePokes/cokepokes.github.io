@@ -196,6 +196,22 @@ Description: Tweaked Snapchat. Works on Snapchat 10.36.0.23. Right now, it only 
 Author: CokePokes
 Name: Spectre [Beta] (formally Phantom)
 
+Package: com.cokepokes.supple
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: deb/com.cokepokes.supple_0.1-1_iphoneos-arm.deb
+Size: 1157266
+MD5sum: acef67c3e8c9bec791574441b76f5b92
+SHA1: 7ab9d902a5026472fdfe6766e7415ae06a531e73
+SHA256: 11dfc7160c875cb2ca9328d424dfd4efd4ff6f1077246ce49884f474d6fb2a01
+Section: Tweaks
+Priority: optional
+Description: Loads FLEX into whatever app you have open by holding the status bar for .5 seconds. Works on A12! (Credit: NSExceptional)
+Author: CokePokes
+Name: Supple
+Sileodepiction: https://cokepokes.github.io/depiction/supple/Supple
+
 Package: com.cokepokes.teluguremove
 Version: 0.1-2
 Architecture: iphoneos-arm
