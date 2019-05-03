@@ -76,6 +76,23 @@ Description: A fucking awesome mobile substrate tweak!
 Author: CokePokes
 Name: Snapchat Volume Statusbar
 
+Package: com.cokepokes.appdispatch
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: deb/com.cokepokes.appdispatch_0.1-1_iphoneos-arm.deb
+Size: 30018
+MD5sum: 31fb422173ce56310abe0a2cebeca0db
+SHA1: b96ea924ccb51851cd36396bf110fc81d3ed4618
+SHA256: 577616dbdea2fe808c672be743306bc1c094cb558954ef6037ab263e22b3eac0
+Section: Tweaks
+Priority: optional
+Description: Kills apps natively when visiting the home screen from application. Enable in Settings.
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appdispatch.html
+Name: AppDispatch
+Sileodepiction: https://cokepokes.github.io/depiction/appdispatch/AppDispatch
+
 Package: com.cokepokes.appstoreplusplus
 Version: 0.7-4
 Architecture: iphoneos-arm
