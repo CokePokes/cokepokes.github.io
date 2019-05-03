@@ -13,30 +13,6 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 275.41333333333336}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "",
-              "fullSizeURL": ""
-            }
-          ],
-          "ipad": {
-            "itemCornerRadius": 9,
-            "itemSize": "{320, 550.8266666666667}",
-            "screenshots": [
-              {
-                "accessibilityText": "Screenshot",
-                "url": "?size=640",
-                "fullSizeURL": ""
-              }
-            ],
-            "class": "DepictionScreenshotView"
-          },
-          "class": "DepictionScreenshotsView"
-        },
-        {
           "markdown": "Kills apps natively when visiting the home screen from application. Enable in Settings.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
