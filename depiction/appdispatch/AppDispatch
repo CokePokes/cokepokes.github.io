@@ -38,7 +38,7 @@
         },
         {
           "title": "Version",
-          "text": "0.1-2",
+          "text": "0.1-1",
           "class": "DepictionTableTextView"
         },
         {
@@ -74,26 +74,24 @@
     },
     {
       "tabname": "Changelog",
-    "views": [
+      "views": [
         {
-            "title": "0.1-2",
-            "useBoldText": true,
-            "useBottomMargin": true,
-            "class": "DepictionSubheaderView"
+          "title": "0.1-2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
         },
         {
-            "markdown": "\t\n\u2022 Added option to not kill apps that are playing mucic",
-            "useSpacing": false,
-            "class": "DepictionMarkdownView"
+          "markdown": "\t\n\u2022 Added option to not kill apps that are playing mucic",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
         },
         {
-            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/04</small>",
-            "useRawFormat": true,
-            "class": "DepictionMarkdownView"
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/04</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         }
-        ],
-    [
-		{
+        {
           "title": "0.1-1",
           "useBoldText": true,
           "useBottomMargin": true,
