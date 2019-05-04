@@ -90,7 +90,7 @@
           "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/04</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
-        }
+        },
         {
           "title": "0.1-1",
           "useBoldText": true,
