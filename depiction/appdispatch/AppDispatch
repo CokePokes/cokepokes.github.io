@@ -76,6 +76,22 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "0.1-3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed preferences",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/04</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "0.1-2",
           "useBoldText": true,
           "useBottomMargin": true,
