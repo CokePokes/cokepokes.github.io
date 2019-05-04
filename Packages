@@ -77,14 +77,14 @@ Author: CokePokes
 Name: Snapchat Volume Statusbar
 
 Package: com.cokepokes.appdispatch
-Version: 0.1-3
+Version: 0.1-4
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate, applist, preferenceloader
-Filename: deb/com.cokepokes.appdispatch_0.1-3_iphoneos-arm.deb
-Size: 32350
-MD5sum: 5952ecb0cb737783c99d99cce7f91b43
-SHA1: df643e069deda93c3bee8f3e5f17d899b52bf55c
-SHA256: f023bfdff3012407cca6a7fec4a06638863f73c92a084cd38a6ce19c9178c55b
+Filename: deb/com.cokepokes.appdispatch_0.1-4_iphoneos-arm.deb
+Size: 76300
+MD5sum: c7f55e95fabd519036c47ea2ffc6d611
+SHA1: d8bd2a898e3cd50c0512c09f4012778074d6e906
+SHA256: 720ed1c1fced8aef78709191b4ad5a27744562d4d36ca8cdaa33ae35817d443d
 Section: Tweaks
 Priority: optional
 Description: Kills apps natively when visiting the home screen from application. Enable in Settings.
