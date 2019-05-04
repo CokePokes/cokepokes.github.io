@@ -25,7 +25,7 @@
           "class": "DepictionHeaderView"
         },
         {
-          "markdown": "Kills apps playing music when setting is enabled for media app. Preference is coming soon.",
+          "markdown": "None!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
