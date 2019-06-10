@@ -142,22 +142,6 @@ Description: Removes the redeckulous iOS11 HUGE titles in Apps
 Author: CokePokes
 Name: fucklargetitles
 
-Package: com.cokepokes.inutt
-Version: 1.1.5-7
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: deb/com.cokepokes.inutt_1.1.5-7_iphoneos-arm.deb
-Size: 16950456
-MD5sum: ddc03dd4d15207a5daed3f4401b94589
-SHA1: 449d8820c4bb0f3123c9bf5089ee2431fc42302f
-SHA256: 55051dd3a78ad0f99f7ae653c36ccd19ec0dcaf4ab3b1d8b2dd05e4ab3f85d0c
-Section: System
-Priority: optional
-Description: Search/download corn from four different corn sites!
-Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/inutt.html
-Name: iNutt
-
 Package: com.cokepokes.libphantom
 Version: 1.0.2-1
 Architecture: iphoneos-arm
