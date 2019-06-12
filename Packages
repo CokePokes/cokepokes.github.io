@@ -181,6 +181,22 @@ Dev: cokepokes
 Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.siriunlock
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.siriunlock_0.1-1_iphoneos-arm.deb
+Size: 60056
+MD5sum: 47d3fb186657d829801bbe9d0fd9d468
+SHA1: f9fbedc320be7bd666f9d53570d30ae0cca27448
+SHA256: 3dde68f541aefe1ad2695434350d3483fcf59ca0a8bdc25cc081cb255b4d0065
+Section: Tweaks
+Priority: optional
+Description: Allows Siri to access sensitive data when your phone is locked. (ie: read last text messages, show notes & contacts.) This is a bit of a security degrading tweak. No options to configure, it just works.
+Author: CokePokes
+Name: SiriUnlock
+
 Package: com.cokepokes.snapdecent
 Version: 0.2-2
 Architecture: iphoneos-arm
