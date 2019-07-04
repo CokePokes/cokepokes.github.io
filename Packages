@@ -15,6 +15,22 @@ Description: Probably the fastest auto face unlock tweak available for the iPhon
 Author: CokePokes
 Name: AutoFaceIDUnlockX
 
+Package: com.cokepokes.CPRevealLoader
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: deb/com.cokepokes.CPRevealLoader_0.1-1_iphoneos-arm.deb
+Size: 4099946
+MD5sum: 8863ff22818d9f5eaeed1670a79617f7
+SHA1: ecdfa862baa31b53e666f21ac79afa7553af1cb7
+SHA256: 4f287b403f6d699803cd3ee05ae9723ad51ee1ecf8172e686ccaa6f42f3e4211
+Section: Tweaks
+Priority: optional
+Description: Enable Reveal server in any app for debugging UI. Works on A12 & with Reveal client version 23 (12724)
+Author: CokePokes
+Name: CPRevealLoader
+
 Package: com.cokepokes.Masterball
 Version: 1.1
 Architecture: iphoneos-arm
