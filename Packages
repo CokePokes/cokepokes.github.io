@@ -197,6 +197,22 @@ Dev: cokepokes
 Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.silencio
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: deb/com.cokepokes.silencio_0.1-1_iphoneos-arm.deb
+Size: 38386
+MD5sum: 2d76da74ebfe2b3f5197356a8b3f73e7
+SHA1: 0e202f95239b7d80dc6ebdaa92050ad51f040f35
+SHA256: f3037b771f91c33d98f0fccc8c6cda5a55a5bd669411e661f782471d7364e276
+Section: Tweaks
+Priority: optional
+Description: Silences the emergency alerts in iOS. Requested on reddit.com/r/jailbreak. Let me know if it works when a alert comes.
+Author: CokePokes
+Name: Silencio
+
 Package: com.cokepokes.siriunlock
 Version: 0.1-1
 Architecture: iphoneos-arm
