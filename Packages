@@ -1,3 +1,24 @@
+Package: cokepokes.crash-reporter
+Version: 1.16.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, cokepokes.jp.ashikase.libcrashreport (>= 1.1.0), cokepokes.jp.ashikase.libpackageinfo (>= 1.1.0), cokepokes.jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
+Filename: deb/crashreporter.deb
+Size: 234340
+MD5sum: d9925edba2ac461f8dfcc4f479efe875
+SHA1: 19a16d86de9ca1decce66301d6dd85bd89e31406
+SHA256: ac3a2cee22ff228ec4513a008f93ec547d74a79beb1d966af5560be9758ba999
+Section: System
+Homepage: http://github/ashikase/CrashReporter/
+Description: Send useful crash info to developers.
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporter (arm64/arm64e)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: cokepokes.jp.ashikase.libcrashreport
 Version: 1.1.0-1
 Architecture: iphoneos-arm
@@ -428,25 +449,4 @@ Section: Tweaks
 Priority: optional
 Author: laughingquoll
 Name: Siliqua
-
-Package: crash-reporter
-Version: 1.16.0-1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Pre-Depends: firmware (>=4.0)
-Depends: coreutils, dpkg, grep, cokepokes.jp.ashikase.libcrashreport (>= 1.1.0), cokepokes.jp.ashikase.libpackageinfo (>= 1.1.0), cokepokes.jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
-Filename: deb/crashreporter.deb
-Size: 234736
-MD5sum: 17cc21207db8e9bd68287f41fd5e1630
-SHA1: 27abdd74b7d55798b0267ca7effa4ea0e2bc84f5
-SHA256: 3d5962a693e51568e995ab9e46afec391941e0d586c3613a2aa5516cb637248d
-Section: System
-Homepage: http://github/ashikase/CrashReporter/
-Description: Send useful crash info to developers.
-Tag: purpose::uikit, role::enduser
-Author: Lance Fetters (ashikase) <support@ashikase.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
-Dev: ashikase
-Name: CrashReporter (arm64/arm64e)
-Sponsor: thebigboss.org <http://thebigboss.org>
 
