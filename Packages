@@ -1,3 +1,87 @@
+Package: cokepokes.jp.ashikase.libcrashreport
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>= 3.0)
+Depends: cokepokes.jp.ashikase.libsymbolicate (>= 1.9.0), cokepokes.jp.ashikase.libpackageinfo
+Filename: deb/libcrashreport.deb
+Size: 26620
+MD5sum: 08a7160c23898d86daa95a2f28941986
+SHA1: ddff62bd64b9b0da75d3a6f6999c120ae9949034
+SHA256: 8f27f6c62ab56c943c8ee874fe36dbf1a009da2ef65e986efcf49fbfe7532d7d
+Section: Development
+Homepage: http://github.com/ashikase/libcrashreport
+Description: Library to parse and symbolicate crash reports.
+    This library is based upon CrashReporter by kennytm.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcrashreportData
+Dev: ashikase
+Name: libcrashreport (arm64/arm64e)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: cokepokes.jp.ashikase.libpackageinfo
+Version: 1.1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=3.0)
+Filename: deb/libpackageinfo.deb
+Size: 60080
+MD5sum: 07ce8fa33230727068da2d9e06471ccd
+SHA1: c8972c8349fdb076d36645ed0526d7451c977146
+SHA256: 041df715c593312bd1b59759bcc00c9c93c3a768236d8c64d7c9483f8961516c
+Section: Development
+Homepage: http://github.com/ashikase/libpackageinfo
+Description: Library to retrieve package information.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libpackageinfoData
+Dev: ashikase
+Name: libpackageinfo (arm64/arm64e)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: cokepokes.jp.ashikase.libsymbolicate
+Version: 1.9.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Filename: deb/libsymbolicate.deb
+Size: 26560
+MD5sum: b93304ac00d36e0ea89b2316f1248945
+SHA1: 78cf23ded6f9c2cf59ee12e62918374ffbe36525
+SHA256: 96892d9f93efb59ce07c555143f38c13bc92fbe008f6023dc417d6b0bdaa14ff
+Section: Development
+Homepage: http://github.com/ashikase/libsymbolicate
+Description: Library to symbolicate memory addresses.
+    This library is based upon CrashReporter by kennytm.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsymbolicateData
+Dev: ashikase
+Name: libsymbolicate (arm64/arm64e)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: cokepokes.jp.ashikase.techsupport
+Version: 1.5.0.1-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=3.0)
+Depends: cokepokes.jp.ashikase.libpackageinfo
+Filename: deb/techsupport.deb
+Size: 45864
+MD5sum: 30382b1561ba273afaff3e282a980030
+SHA1: 74220aec37f91f6d232774929da7f31aee5a0159
+SHA256: 790a139023eae61ab076c2afcec9b24ad6dabeb8100528fc20fbb444c9bb80a6
+Section: Development
+Homepage: http://github.com/ashikase/TechSupport
+Description: Framework to assist in providing feedback to developers.
+Tag: role::developer
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=techsupportData
+Dev: ashikase
+Name: TechSupport Framework (arm64/arm64e)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cokepokes.AutoFaceIDUnlockX
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -344,4 +428,25 @@ Section: Tweaks
 Priority: optional
 Author: laughingquoll
 Name: Siliqua
+
+Package: crash-reporter
+Version: 1.16.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Depends: coreutils, dpkg, grep, cokepokes.jp.ashikase.libcrashreport (>= 1.1.0), cokepokes.jp.ashikase.libpackageinfo (>= 1.1.0), cokepokes.jp.ashikase.techsupport (>= 1.5.0), mobilesubstrate, preferenceloader
+Filename: deb/crashreporter.deb
+Size: 234736
+MD5sum: 17cc21207db8e9bd68287f41fd5e1630
+SHA1: 27abdd74b7d55798b0267ca7effa4ea0e2bc84f5
+SHA256: 3d5962a693e51568e995ab9e46afec391941e0d586c3613a2aa5516cb637248d
+Section: System
+Homepage: http://github/ashikase/CrashReporter/
+Description: Send useful crash info to developers.
+Tag: purpose::uikit, role::enduser
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=crashreporterData
+Dev: ashikase
+Name: CrashReporter (arm64/arm64e)
+Sponsor: thebigboss.org <http://thebigboss.org>
 
