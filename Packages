@@ -1,15 +1,15 @@
 Package: cokepokes.crash-reporter
-Version: 1.16.0-2
+Version: 1.16.0-3
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: firmware (>=4.0)
 Depends: coreutils, dpkg, grep, cokepokes.jp.ashikase.libcrashreport (>= 1.1.0), cokepokes.jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0.1-2), mobilesubstrate, preferenceloader
 Conflicts: crash-reporter
 Filename: deb/crashreporter.deb
-Size: 328048
-MD5sum: 0dd3054474e0fab89a90abe29c7db124
-SHA1: 0cb983c6546a6eb2475d81fd368337bc0062d27a
-SHA256: 1b546903e58dc799bbc4d82695e327168da94c6368115b67ea8acb8efc301823
+Size: 347336
+MD5sum: 7061877284966725ebbc910356a61e13
+SHA1: 5ab71d331f3ae91ce9c6a32f28b138ce0aa5c9b0
+SHA256: 785fb72a0f0311e176a50cfef6f0dba504753b4608c4c58665aad4b6d3a32658
 Section: System
 Homepage: http://github/ashikase/CrashReporter/
 Description: Send useful crash info to developers.
