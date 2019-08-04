@@ -264,15 +264,15 @@ Depiction: https://cokepokes.github.io/depiction/inutt.html
 Name: iNutt
 
 Package: com.cokepokes.libnotifications
-Version: 0.1-1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: deb/com.cokepokes.libnotifications_0.1-1_iphoneos-arm.deb
-Size: 143586
-MD5sum: 6f3e532d7b1da577673513fe782d705d
-SHA1: ce531d4b97b11610bc6b8a88c0dca81cc8f11142
-SHA256: 90d7f8fc8a6a2242789104462cc6adcf140c0cc3bd371dc57c1b411c5de36d4d
+Filename: deb/com.cokepokes.libnotifications_0.2_iphoneos-arm.deb
+Size: 145716
+MD5sum: b467ae5c8b21c7af7b91cbddb7bc65b1
+SHA1: bab15822362699f1088deda2e67a27339986ac6c
+SHA256: 432dc3763c3542409f3045dff59de81cd8dca63ec2e075b48ae2d926e6c4d525
 Section: Tweaks
 Priority: optional
 Description: App notification library.
