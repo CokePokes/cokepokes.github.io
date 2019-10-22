@@ -308,21 +308,22 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 6.0
+Version: 6.0-1
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 10.0), mobilesubstrate, shell-cmds
-Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.ion.wraith
 Replaces: com.cokepokes.spectre
-Filename: deb/com.cokepokes.phantom_6.0_iphoneos-arm.deb
-Size: 1812168
-MD5sum: b8f070a2800c508869e7bc7b1eb69dc5
-SHA1: c46f3d5f2c73f378879a9cb7a71e50b419467aff
-SHA256: 4d44eccd5f53d46c950a25a578245dd89e739280d880f66e0a66be593378ce95
+Filename: deb/com.cokepokes.phantom_6.0-1_iphoneos-arm.deb
+Size: 1811344
+MD5sum: 422e3a1b629ec52ac99698189211efba
+SHA1: 709effcbbfa035a688061ad6cc087dfb9dad982a
+SHA256: 4f2e55ca178e683cd85dd7c0a3df98183b16149539251e5afcfff9b84c49c627
 Section: Tweaks
 Priority: optional
 Description: Tweaked Snapchat. Works on Snapchat 10.60 without bans.
 Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/phantom
 Name: Phantom [Beta]
 
 Package: com.cokepokes.silencio
