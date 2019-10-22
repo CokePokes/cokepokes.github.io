@@ -308,17 +308,17 @@ Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.cokepokes.phantom
-Version: 6.0.0-4
+Version: 6.0.0-5
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 10.0), mobilesubstrate, shell-cmds
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.ion.wraith
 Replaces: com.cokepokes.spectre
-Filename: deb/com.cokepokes.phantom_6.0.0-4_iphoneos-arm.deb
-Size: 1813502
-MD5sum: fcba2b526cf91d4446eb1cc7f5030fc1
-SHA1: dd6c49053111edef19d943136fa2a05a67e3f78b
-SHA256: 09c13d69260f0e42d0625ef98745abf385d89be161337e48387a725afeb2d178
+Filename: deb/com.cokepokes.phantom_6.0.0-5_iphoneos-arm.deb
+Size: 1811704
+MD5sum: e8e0535ef4441d81a891e0624e25aea6
+SHA1: 54c3a6f9169a341e40e3bc3f981ffe98f4732bd7
+SHA256: 139699abebb9fd062ac3dd00c0a945fcdab1ce316c489e5f9a670b3e8318dbc5
 Section: Tweaks
 Priority: optional
 Description: Tweaked Snapchat. Works on Snapchat 10.60 without bans.
