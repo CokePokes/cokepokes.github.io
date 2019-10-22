@@ -1,15 +1,15 @@
 Package: cokepokes.crash-reporter
-Version: 1.16.0-6
+Version: 1.16.0-7
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Pre-Depends: firmware (>=4.0)
 Depends: coreutils, dpkg, grep, cokepokes.jp.ashikase.libcrashreport (>= 1.1.0), cokepokes.jp.ashikase.libpackageinfo (>= 1.1.0), jp.ashikase.techsupport (>= 1.5.0.1-2), mobilesubstrate, preferenceloader
 Conflicts: crash-reporter
 Filename: deb/crashreporter.deb
-Size: 346380
-MD5sum: 4b298ce0fa81143cbcdd80a6530958f4
-SHA1: 9a1aa786d0cb2b5067157f3028a8dd8736299fe9
-SHA256: 666906d64b64e573c7fe4fefeda044f4964c8d84b8bbcc9ba2117c316e545847
+Size: 346248
+MD5sum: 1d379fe269a354809cc22c7b752ec5c5
+SHA1: 7316e50d704eb298b608c18dd8ef130f934734de
+SHA256: ae0114f65d5b4b60b9642e1cf6bad7ae05f6da3a343a942e40e1569a227366aa
 Section: System
 Homepage: http://github/ashikase/CrashReporter/
 Description: Send useful crash info to developers.
@@ -306,6 +306,24 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantom
 Dev: cokepokes
 Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.phantom
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 10.0), mobilesubstrate, shell-cmds
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor
+Replaces: com.cokepokes.spectre
+Filename: deb/com.cokepokes.phantom_6.0_iphoneos-arm.deb
+Size: 1812168
+MD5sum: b8f070a2800c508869e7bc7b1eb69dc5
+SHA1: c46f3d5f2c73f378879a9cb7a71e50b419467aff
+SHA256: 4d44eccd5f53d46c950a25a578245dd89e739280d880f66e0a66be593378ce95
+Section: Tweaks
+Priority: optional
+Description: Tweaked Snapchat. Works on Snapchat 10.60 without bans.
+Author: CokePokes
+Name: Phantom [Beta]
 
 Package: com.cokepokes.silencio
 Version: 0.1-1
