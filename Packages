@@ -247,15 +247,15 @@ Author: CokePokes
 Name: fucklargetitles
 
 Package: com.cokepokes.inutt
-Version: 1.1.6-10
+Version: 1.2.0-1
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: deb/com.cokepokes.inutt_1.1.6-10_iphoneos-arm.deb
-Size: 17054468
-MD5sum: 7090ac02617b880766d166f2cd9d4afe
-SHA1: 24a3d002dff30bc0692e705dc89a3b3b6e51610e
-SHA256: 855aaaec953d2adf6d6ec53944f392aadee052e55ddaebdf9080fa6e93acc7a4
+Filename: deb/com.cokepokes.inutt_1.2.0-1_iphoneos-arm.deb
+Size: 25179224
+MD5sum: 6859482c9bdf7f5a0f92335513653fe9
+SHA1: bc4ddb4546d54529b3183654f72886af4b1a4b39
+SHA256: e2939ed048e33ccf0016cd3376455b18a6bff91e8f19c27913570e731fbb8e3d
 Section: System
 Priority: optional
 Description: Search/download corn from four different corn sites!
