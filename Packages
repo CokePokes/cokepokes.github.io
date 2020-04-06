@@ -215,6 +215,24 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.9
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.9_iphoneos-arm.deb
+Size: 1389984
+MD5sum: 62fbc70ab64031d13f6ab4c0d9ca1386
+SHA1: 33048d103f1c77a6d5bd0649f295b22e84c89098
+SHA256: 193c474df220692ed621dc4f3c3a28667762e7249522f834a97bd0cb2c1b35a3
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
 Package: com.cokepokes.betterarlosound
 Version: 0.1-3
 Architecture: iphoneos-arm
