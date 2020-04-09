@@ -312,10 +312,10 @@ Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ws.hbang.common
 Conflicts: com.unlimapps.uaupdatetools
 Filename: deb/com.cokepokes.appstoreplusplus_0.9.9-5_iphoneos-arm.deb
-Size: 1419788
-MD5sum: 3672bb6be742178838c6a2dc02159bc2
-SHA1: a297bb60bbca985f54ec7175dcea68ed5fba19c0
-SHA256: 1f8a6cb35145210a031c04c7081741086c115501649515b8c18c5af52d2dc4a9
+Size: 1420056
+MD5sum: 48041368203c8f4c9039604746c10f14
+SHA1: c5201291894fd0a5c225196fd53e24077b2e4e94
+SHA256: f05846bb6d78933362f4500bd299b0923223d9e3650f5d16f34441540e7199f6
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
