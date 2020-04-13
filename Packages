@@ -359,6 +359,24 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.9-8
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.9-8_iphoneos-arm.deb
+Size: 1472596
+MD5sum: 42a13f76b9b9928e9c07cb8c0b0859dd
+SHA1: 0382151b1bd4574fc055e4717d197b951c46b556
+SHA256: 7f73f18d92eee689887f88fd3cc4421ce17eaedfaf99387da406496b5928a1a6
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
 Package: com.cokepokes.betterarlosound
 Version: 0.1-3
 Architecture: iphoneos-arm
@@ -400,6 +418,23 @@ Size: 25179224
 MD5sum: 6859482c9bdf7f5a0f92335513653fe9
 SHA1: bc4ddb4546d54529b3183654f72886af4b1a4b39
 SHA256: e2939ed048e33ccf0016cd3376455b18a6bff91e8f19c27913570e731fbb8e3d
+Section: System
+Priority: optional
+Description: Search/download corn from four different corn sites!
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/inutt.html
+Name: iNutt
+
+Package: com.cokepokes.inutt
+Version: 1.2.0-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: deb/com.cokepokes.inutt_1.2.0-2_iphoneos-arm.deb
+Size: 25179394
+MD5sum: 883b64f56b67d51e9a122004d7c67022
+SHA1: a0f00739d92709ee0365752eae2b992f0ff180ef
+SHA256: afdeb02a4b9ce4278340408fe7da200a6cae6b232bee96fb4abd9d23e5a777c3
 Section: System
 Priority: optional
 Description: Search/download corn from four different corn sites!
