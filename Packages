@@ -216,6 +216,24 @@ Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
 Package: com.cokepokes.appstoreplusplus
+Version: 0.9.11
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.11_iphoneos-arm.deb
+Size: 614710
+MD5sum: f818c198169bec1ca11bba327701091b
+SHA1: 7ff6047c960c09ba25decbb34b83cb9656d946ef
+SHA256: f969ba55de63c14b7b3b939e2c1f95b997dcf133954188a56d0112a02944570a
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
+Package: com.cokepokes.appstoreplusplus
 Version: 0.9.8-9
 Architecture: iphoneos-arm
 Maintainer: CokePokes
