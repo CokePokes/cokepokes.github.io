@@ -536,6 +536,28 @@ Dev: cokepokes
 Name: libnotifications
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.libnotifications
+Version: 0.3-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 980
+Depends: firmware (>= 8.0)
+Filename: deb/com.cokepokes.libnotifications_0.3-1_iphoneos-arm.deb
+Size: 178892
+MD5sum: a67b020051da7756e3470b2a15b7eb7b
+SHA1: 501075125752023ee0787c5a6f699a8f3035d2ab
+SHA256: 3684fb0da72655e76688ccf9060080b196eee57d73d40d0f4b5abf8edae79312
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Dev: cokepokes
+Name: libnotifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cokepokes.libphantom
 Version: 1.0.2-1
 Architecture: iphoneos-arm
