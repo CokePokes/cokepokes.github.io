@@ -1,7 +1,7 @@
 {
-  "phantomVersion": "6.0.1-1",
-  "snapchatAdamId": "831699790",
-  "shutdownPreferences": {"isShutdown": "1", 
+  "phantomVersion": "6.0.2-1",
+  "snapchatAdamId": "836345529",
+  "shutdownPreferences": {"isShutdown": "0", 
 			  "title": "Sorry",
 			  "message": "There have been some reports of account bans, the tweak is disabled until further testing is done."}
 
