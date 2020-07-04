@@ -639,6 +639,25 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/phantom
 Name: Phantom [Beta]
 
+Package: com.cokepokes.phantom
+Version: 6.1.0-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 10.0), mobilesubstrate, shell-cmds, ldid
+Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.ion.wraith, com.aeonlucid.snaphide, com.snaphelper.snapbreak.fr33, com.snaphelper.snapbreak
+Replaces: com.cokepokes.spectre
+Filename: deb/com.cokepokes.phantom_6.1.0-1_iphoneos-arm.deb
+Size: 1596204
+MD5sum: ada54d925a4e0e13f620627c7f76585a
+SHA1: 63cfba1863ad1a71cee60bd05089f503a0b0829e
+SHA256: 9a9ee292e4d83599806615938b27d1e80050f3289cda955f697157d49b661e73
+Section: Tweaks
+Priority: optional
+Description: Tweaked Snapchat. Works on Snapchat 10.60 without bans.
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/phantom
+Name: Phantom [Beta]
+
 Package: com.cokepokes.silencio
 Version: 0.1-1
 Architecture: iphoneos-arm
