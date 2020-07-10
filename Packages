@@ -516,6 +516,22 @@ Description: Removes the redeckulous iOS11 HUGE titles in Apps
 Author: CokePokes
 Name: fucklargetitles
 
+Package: com.cokepokes.fuckoffFB
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.fuckoffFB_0.1-1_iphoneos-arm.deb
+Size: 32430
+MD5sum: 0286e11a3b809fc637a40cbed4bffd55
+SHA1: a35ffad97a0ff36cccd7c85c1f8cd53d12992ae9
+SHA256: 47cba0a24810d8dcc5057673e07c0f8e29e9b7cdac026458156bfb60ba747b1f
+Section: Tweaks
+Priority: optional
+Description: Stop Facebook from crashing your apps!
+Author: CokePokes
+Name: Fuckoff Facebook
+
 Package: com.cokepokes.inutt
 Version: 1.2.0-1
 Architecture: iphoneos-arm
