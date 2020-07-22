@@ -693,17 +693,17 @@ Depiction: https://cokepokes.github.io/depiction/phantom
 Name: Phantom [Beta]
 
 Package: com.cokepokes.phantom
-Version: 6.1.2-4
+Version: 6.1.2-5
 Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 10.0), mobilesubstrate, shell-cmds, ldid
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.unlimapps.uasharedtools, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.ion.wraith, com.aeonlucid.snaphide, com.snaphelper.snapbreak.fr33, com.snaphelper.snapbreak
 Replaces: com.cokepokes.spectre
-Filename: deb/com.cokepokes.phantom_6.1.2-4_iphoneos-arm.deb
-Size: 1554400
-MD5sum: 1e89d04c4ecf1b4e9ed6ed7cd6c9a7f0
-SHA1: 3b45c771e30a6769067fa468bff6ccd8534c60bd
-SHA256: bce82fcc7d1ca3830d3785be86993bcefed72462521d611e4caee21182f9aa6a
+Filename: deb/com.cokepokes.phantom_6.1.2-5_iphoneos-arm.deb
+Size: 1552966
+MD5sum: 67181ed89bd869e5ded2d5b6a2316d64
+SHA1: 00f58dcf98a5da92f24b56f7716b7c0989d82d17
+SHA256: 11e0c0ce00597adc4db8c2dfdfe96bbe9e53fdbc0969a75254d14acc89ec0a38
 Section: Tweaks
 Priority: optional
 Description: Tweaked Snapchat. Works on Snapchat 10.60 without bans.
