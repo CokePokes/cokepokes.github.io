@@ -844,20 +844,6 @@ Description: This package is only a script that runs during installation. It ren
 Author: CokePokes
 Name: teluguremove
 
-Package: com.cokepokes.testingletsdowngrade
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: deb/com.cokepokes.testingletsdowngrade_0.1-1_iphoneos-arm.deb
-Size: 41070
-MD5sum: dc91fca985bb167948654a98b9759112
-SHA1: 306de9a971f0c31e7aeb0bd6d077ed06ba230d36
-SHA256: 65adb86c488d836fbc88695ad6b19415feb7f83707019079318cff439265aae3
-Section: Tweaks
-Priority: optional
-Author: CokePokes
-Name: testingletsdowngrade
-
 Package: com.cokepokes.watchUtilsSB
 Version: 0.1-2
 Architecture: iphoneos-arm
