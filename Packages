@@ -584,6 +584,25 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/inutt.html
 Name: iNutt
 
+Package: com.cokepokes.letsdowngrade
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: deb/com.cokepokes.letsdowngrade_0.1-2_iphoneos-arm.deb
+Size: 61092
+MD5sum: bff4ab9d5db9b3d9ca44537cc41b43e0
+SHA1: 9d57b3802e2db213bbbaedd9ad0b95d2d44b3848
+SHA256: a8ce03aee404d3dc41e9c9c4603d46d175ad442f64819f554efdc45c80b07e11
+Section: Development
+Priority: optional
+Description: Library to allow developers to downgrade AppStore apps
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: letsdowngrade
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cokepokes.libnotifications
 Version: 0.2-3
 Architecture: iphoneos-arm
