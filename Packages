@@ -620,6 +620,22 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/inutt.html
 Name: iNutt
 
+Package: com.cokepokes.kapok
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.kapok_0.1-1_iphoneos-arm.deb
+Size: 321612
+MD5sum: 41482c8fb045beab4fa59bbbe70ee3a4
+SHA1: 2e96ae802ff4c9a7a491d233eb769a1871cbfb37
+SHA256: 0d1532778dd3878ea95f51221e8da981933fe47f76c32397f535df2888829dfc
+Section: Tweaks
+Priority: optional
+Description: Long hold the share button at an Amazon product page to launch FakeSpot & paste the link. (FakeSpot helps determine if an amazon product has fake reviews)
+Author: CokePokes
+Name: Kapok
+
 Package: com.cokepokes.letsdowngrade
 Version: 0.1-2
 Architecture: iphoneos-arm
