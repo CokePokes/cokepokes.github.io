@@ -917,6 +917,23 @@ Description: Show your favorite stock in the status bar. (notch devices only)
 Author: CokePokes
 Name: StonksBar
 
+Package: com.cokepokes.stonksbar
+Version: 0.1-3
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.stonksbar_0.1-3_iphoneos-arm.deb
+Size: 415408
+MD5sum: 8c74ca6e449321a040f012127786344f
+SHA1: 6277bad9505a9d5657f036705d1d06ed2762b0b7
+SHA256: 43a1c3d7d6bdd680fcd3d90f489ee13a150b7883102e300cc184a9a72b941a2c
+Section: Tweaks
+Priority: optional
+Description: Show your favorite stock in the status bar. (notch devices only)
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/stonksbar.html
+Name: StonksBar
+
 Package: com.cokepokes.supple
 Version: 0.1-1
 Architecture: iphoneos-arm
