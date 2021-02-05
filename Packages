@@ -324,6 +324,24 @@ Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
 
 Package: com.cokepokes.appstoreplusplus
+Version: 0.9.14-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.14-2_iphoneos-arm.deb
+Size: 1242344
+MD5sum: 487b03f3b13b62f95ac534489fe2dcb2
+SHA1: 498466e2464bb2fe476db9a65e5b7904751c15cf
+SHA256: 58af4f4edf43e760600f915f7e947bcbadc49ffb9b5d7bfa4445b88bf17feef2
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
+Package: com.cokepokes.appstoreplusplus
 Version: 0.9.8-9
 Architecture: iphoneos-arm
 Maintainer: CokePokes
@@ -882,6 +900,22 @@ Priority: optional
 Description: Tweaked Snapchat. Works on Snapchat 10.36.0.23. Right now, it only saves Snaps. **Note: It is incompatible with every Unlimapps tweak since Snapchat checks for uasharedtools. (Eh, it's bloatware anyways. You're better without it.)
 Author: CokePokes
 Name: Spectre [Beta] (formally Phantom)
+
+Package: com.cokepokes.stonksbar
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.stonksbar_0.1-2_iphoneos-arm.deb
+Size: 414780
+MD5sum: a02db6a481945507036d0c7290753609
+SHA1: 3865ca7097c6ec94499cd12d2765b36eef7ec8a6
+SHA256: debec01db0fdd963099f3535adfce6820e3eddecc002a089f8f90008d9fba6bd
+Section: Tweaks
+Priority: optional
+Description: Show your favorite stock in the status bar. (notch devices only)
+Author: CokePokes
+Name: StonksBar
 
 Package: com.cokepokes.supple
 Version: 0.1-1
