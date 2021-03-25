@@ -330,10 +330,10 @@ Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: deb/com.cokepokes.appstoreplusplus_0.9.15_iphoneos-arm.deb
-Size: 3017514
-MD5sum: 5cf7ca66df39fc95e675db230923e7f4
-SHA1: 41126931f6b5cae9a4336c7d0e46024e57932967
-SHA256: 06b6bf549336ca2f64a0b1992b892706f572319385cdc92e1b96963b3b4a2678
+Size: 3017258
+MD5sum: 09d667aeb5b20d146e3d9487d8e9377e
+SHA1: bb6ff0483c8a19eed0a669fd1ce6971dcd8923e2
+SHA256: 46ded5a61d994ab00da9c1258efab8652f82a081a92e2863240d4aef6c6c6c42
 Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
