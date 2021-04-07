@@ -678,6 +678,20 @@ Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/phantom
 Name: Phantom [Beta]
 
+Package: com.cokepokes.psappotheraudio
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.psappotheraudio_0.1-1_iphoneos-arm.deb
+Size: 29360
+MD5sum: 582dc5f103238408a4d8fc80a94b1418
+SHA1: c3e09671552a10aa93ec082b2d8b014871a9c832
+SHA256: 0d7b8bec0e0c4a03b8e26a566872f8724a1946f66679761f5607eed2d13cdcd5
+Section: Tweaks
+Priority: optional
+Author: CokePokes
+Name: psappotheraudio
+
 Package: com.cokepokes.silencio
 Version: 0.1-1
 Architecture: iphoneos-arm
