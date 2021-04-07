@@ -692,6 +692,22 @@ Priority: optional
 Author: CokePokes
 Name: psappotheraudio
 
+Package: com.cokepokes.psappotheraudio
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: deb/com.cokepokes.psappotheraudio_0.1-2_iphoneos-arm.deb
+Size: 28152
+MD5sum: f5f4ecb63c0d9ab2ab91ba10ee05c477
+SHA1: 4ad66ad0bc04e33178753181d05758046ea0a712
+SHA256: 09b85a90a4b1b6a1bab21362d6cfd20cf15da52bff657db26698c1b77268f5c7
+Section: Tweaks
+Priority: optional
+Description: Allows you to play other app audio when in a party via PlayStation App
+Author: CokePokes
+Name: PSApp Other Audio
+
 Package: com.cokepokes.silencio
 Version: 0.1-1
 Architecture: iphoneos-arm
