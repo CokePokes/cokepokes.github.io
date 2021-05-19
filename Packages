@@ -517,10 +517,10 @@ Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 8.0), mobilesubstrate, com.muirey03.cr4shed, com.cokepokes.libtweakemail
 Filename: deb/com.cokepokes.libcr4shsend_0.1-1_iphoneos-arm.deb
-Size: 214298
-MD5sum: f9e557edd7f6f8f831a3d0f13fdc7390
-SHA1: 846a9571ad609649128651285204814390351bfe
-SHA256: 99404c7569b9ad1c3f1ac1f76295a69ea0a65961be7886e6c4241776453f5d30
+Size: 213636
+MD5sum: 2a485a22c41eef4a632dbf95f32d7b86
+SHA1: 2bbb081c325b534ed2db6b732d969c3b34c2084f
+SHA256: ab44be04909e4cae3089114466d3d4ae06baf935cfd003415549a8419d2e34f9
 Section: Development
 Priority: optional
 Description: Library for developers to request permission to automatically send crash reports from Cr4shed
