@@ -511,6 +511,22 @@ Dev: cokepokes
 Name: letsdowngrade
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.libcr4shsend
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 8.0), mobilesubstrate, com.muirey03.cr4shed, com.cokepokes.libtweakemail
+Filename: deb/com.cokepokes.libcr4shsend_0.1-1_iphoneos-arm.deb
+Size: 214298
+MD5sum: f9e557edd7f6f8f831a3d0f13fdc7390
+SHA1: 846a9571ad609649128651285204814390351bfe
+SHA256: 99404c7569b9ad1c3f1ac1f76295a69ea0a65961be7886e6c4241776453f5d30
+Section: Development
+Priority: optional
+Description: Library for developers to request permission to automatically send crash reports from Cr4shed
+Author: CokePokes
+Name: libcr4shsend
+
 Package: com.cokepokes.libnotifications
 Version: 0.2-3
 Architecture: iphoneos-arm
@@ -599,6 +615,28 @@ Dev: cokepokes
 Name: libnotifications
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.cokepokes.libnotifications
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 980
+Depends: firmware (>= 8.0)
+Filename: deb/com.cokepokes.libnotifications_0.3-5_iphoneos-arm.deb
+Size: 163032
+MD5sum: 8884275a75ffdd95fca6aa60d4e0ec7d
+SHA1: 8b9e677748cdef53d8c4c975ab5c4eac591385b9
+SHA256: 922de051826c91762b43d87e829d5d76394d41ed507ce7edb074066b78e4e10a
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Description: App notification library.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+Dev: cokepokes
+Name: libnotifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.cokepokes.libphantom
 Version: 1.0.2-1
 Architecture: iphoneos-arm
@@ -620,6 +658,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantom
 Dev: cokepokes
 Name: libPhantom
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.libtweakemail
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 8.0)
+Filename: deb/com.cokepokes.libtweakemail_0.1-1_iphoneos-arm.deb
+Size: 153126
+MD5sum: d9d8b62566c64cbe55fadd162258e3d5
+SHA1: 9fc62640bcae019f53a57bc3b0268c08b9a542eb
+SHA256: 1fb9c1fb2ebc0ee0c736aec653396c63fba7d78ea866230064258e604886463e
+Section: Development
+Priority: optional
+Description: Send emails via code
+Author: CokePokes
+Name: libtweakemail
 
 Package: com.cokepokes.phantom
 Version: 6.0.1-1
