@@ -198,6 +198,24 @@ Name: AppDispatch
 Sileodepiction: https://cokepokes.github.io/depiction/appdispatch/AppDispatch
 
 Package: com.cokepokes.appstoreplusplus
+Version: 0.10.0
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.10.0_iphoneos-arm.deb
+Size: 4232052
+MD5sum: 446909f3de3a035245f3ee1c8a927b7c
+SHA1: ea24299e3872ea9a4f8876125ac530843f20da30
+SHA256: 188bebbfb56e36ba88774d1e06a75eedab4fc060e22a8d6f94ee05a2decb8986
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Name: AppStore++
+
+Package: com.cokepokes.appstoreplusplus
 Version: 0.9.14-10
 Architecture: iphoneos-arm
 Maintainer: CokePokes
