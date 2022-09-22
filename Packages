@@ -253,6 +253,25 @@ Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
 Name: AppStore++
 
 Package: com.cokepokes.appstoreplusplus
+Version: 0.10.1-1
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.10.1-1_iphoneos-arm.deb
+Size: 4633464
+MD5sum: 10949e50195dda570f6d2b89ff2db05c
+SHA1: 65462157426c2fa37e929bcc31cd4b030d1ee12e
+SHA256: 397b321c14d7f0899f8b51960b395056e9b06dca6ab40ef8ce07fca7dc43739e
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
+Name: AppStore++
+
+Package: com.cokepokes.appstoreplusplus
 Version: 0.9.14-10
 Architecture: iphoneos-arm
 Maintainer: CokePokes
