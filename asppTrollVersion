@@ -5,6 +5,7 @@
 			"message": "There's a new update it's pretty rad.\n\nNew line!"},
   "shutdownPreferences": {"isShutdown": "0",
 			  "title": ".",
-			  "message": "."}
+			  "message": ".",
+			  "incompatibleVersions": "1.2-1"}
 
 }
