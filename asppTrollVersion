@@ -1,11 +1,11 @@
 {
-  "version": "2.1.1-1",
-  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.1.1-1/AppStorePlus-v2.1.1-1.tipa",
+  "version": "2.2.1-2",
+  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.2.1-2/AppStorePlus-v2.2.1-2.tipa",
 			"title": "Update Found!",
-			"message": "Total app overhaul. Now uses Apples servers for retrieving versions."},
+			"message": "Fixed a bunch of bugs. And updated UI. See the GitHub if youd like the full changeling."},
   "shutdownPreferences": {"isShutdown": "0",
 			  "title": ".",
 			  "message": ".",
-			  "incompatibleVersions": "2.0.1-2"}
+			  "incompatibleVersions": "2.1.1-1"}
 
 }
