@@ -2,7 +2,7 @@
   "version": "2.2.1-2",
   "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.2.1-2/AppStorePlus-v2.2.1-2.tipa",
 			"title": "Update Found!",
-			"message": "Fixed a bunch of bugs. And updated UI. See the GitHub if youd like the full changeling."},
+			"message": "Fixed a bunch of bugs. And updated UI. See the GitHub if youd like the full changelog."},
   "shutdownPreferences": {"isShutdown": "0",
 			  "title": ".",
 			  "message": ".",
