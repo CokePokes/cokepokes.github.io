@@ -6,6 +6,6 @@
   "shutdownPreferences": {"isShutdown": "0",
 			  "title": ".",
 			  "message": ".",
-			  "incompatibleVersions": "2.1.1-1"}
+			  "incompatibleVersions": "2.1.1"}
 
 }
