@@ -1,11 +1,11 @@
 {
   "version": "2.2.1",
-  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.2.1-2/AppStorePlus-v2.2.1-2.tipa",
-			"title": "Update Found!",
-			"message": "Fixed a bunch of bugs. And updated UI. See the GitHub if youd like the full changelog."},
+  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.2.1-2/AppStorePlus-v2.2.8-1.tipa",
+			"title": "Major Update Found!",
+			"message": "Probably the biggest update yet. Ability to backup keychain and app data. New download manager and probably a bunch of other stuff I cant list here. Find the changelog on the GitHub."},
   "shutdownPreferences": {"isShutdown": "0",
 			  "title": ".",
 			  "message": ".",
-			  "incompatibleVersions": "2.1.1"}
+			  "incompatibleVersions": "2.2.1-2"}
 
 }
