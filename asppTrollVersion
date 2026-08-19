@@ -1,5 +1,5 @@
 {
-  "version": "2.2.8",
+  "version": "2.2.7",
   "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.2.8-1/AppStorePlus-v2.2.8-1.tipa",
 			"title": "Major Update Found!",
 			"message": "Probably the biggest update yet. Ability to backup keychain and app data. New download manager and probably a bunch of other stuff I cant list here. Find the changelog on the GitHub."},
