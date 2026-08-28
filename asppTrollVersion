@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0-1",
-  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.0-1/AppStorePlus-v2.3.0-1.tipa",
+  "version": "2.3.1-1",
+  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.1-1/AppStorePlus-v2.3.1-1.tipa",
 			"title": "New Update Found!",
 			"message": "Now uses appstored to install ipas. Chinese translations. Now see updates in the store section. Find the full changelog on GitHub."},
   "shutdownPreferences": {"isShutdown": "0",
