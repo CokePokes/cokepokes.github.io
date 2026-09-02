@@ -1,11 +1,11 @@
 {
   "version": "2.3.1-1",
-  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.1-1/AppStorePlus-v2.3.1-1.tipa",
-			"title": "New Update Found!",
-			"message": "Now uses appstored to install ipas. Chinese translations. Now see updates in the store section. Find the full changelog on GitHub."},
+  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.6-1/AppStorePlus-v2.3.6-1.tipa",
+			"title": "Update Found",
+			"message": "Major bug fixes.\nMake sure you have enabled the url scheme in Trollstore settings to install the update or you will be navigated to magnifier app.\n\nSee the GitHub for the changelog."},
   "shutdownPreferences": {"isShutdown": "0",
 			  "title": ".",
 			  "message": ".",
-			  "incompatibleVersions": "2.2.14-0"}
+			  "incompatibleVersions": "2.3.1"}
 
 }
