@@ -9,7 +9,7 @@
       "Improved compatibility with older versions of iOS.",
       "Includes stability improvements and bug fixes."
     ],
-    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.9-23/AppStorePlus-v2.3.9-23.tipa",
+    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.6-1/AppStorePlus-v2.3.6-1.tipa",
     "releaseDate": "September 8, 2026",
     "size": "11.9 MB",
     "minimumOSVersion": "12.0",
@@ -17,7 +17,7 @@
     "mandatory": false
   },
   "updatePreferences": {
-    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.9-23/AppStorePlus-v2.3.9-23.tipa",
+    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.6-1/AppStorePlus-v2.3.6-1.tipa",
     "title": "Update Found",
     "message": "Major bug fixes.\n\nMake sure you have enabled the url scheme in Trollstore settings to install the update or you will be navigated to magnifier app.\n\nSee the GitHub for the changelog."
   },
