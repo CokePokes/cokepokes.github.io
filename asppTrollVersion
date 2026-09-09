@@ -1,5 +1,5 @@
 {
-  "version": "2.3.6-1",
+  "version": "2.3.9-23",
   "updatePreferencesV2": {
     "appName": "AppStore++",
     "subtitle": "The ultimate App Store companion",
@@ -9,19 +9,22 @@
       "Improved compatibility with older versions of iOS.",
       "Includes stability improvements and bug fixes."
     ],
-    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.9-12/AppStorePlus-v2.3.9-12.tipa",
+    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.9-23/AppStorePlus-v2.3.9-23.tipa",
     "releaseDate": "September 8, 2026",
-    "size": "42 MB",
+    "size": "11.9 MB",
     "minimumOSVersion": "12.0",
     "override": true,
     "mandatory": false
   },
-  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.6-1/AppStorePlus-v2.3.6-1.tipa",
-			"title": "Update Found",
-			"message": "Major bug fixes.\n\nMake sure you have enabled the url scheme in Trollstore settings to install the update or you will be navigated to magnifier app.\n\nSee the GitHub for the changelog."},
-  "shutdownPreferences": {"isShutdown": "0",
-			  "title": ".",
-			  "message": ".",
-			  "incompatibleVersions": "2.3.1"}
-
+  "updatePreferences": {
+    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.9-23/AppStorePlus-v2.3.9-23.tipa",
+    "title": "Update Found",
+    "message": "Major bug fixes.\n\nMake sure you have enabled the url scheme in Trollstore settings to install the update or you will be navigated to magnifier app.\n\nSee the GitHub for the changelog."
+  },
+  "shutdownPreferences": {
+    "isShutdown": "0",
+    "title": ".",
+    "message": ".",
+    "incompatibleVersions": "2.3.1"
+  }
 }
