@@ -1,5 +1,5 @@
 {
-  "version": "2.3.6-1",
+  "version": "2.3.10-17",
   "updatePreferencesV2": {
     "appName": "AppStore++",
     "subtitle": "The ultimate App Store companion",
@@ -21,7 +21,7 @@
     "releaseDate": "September 8, 2026",
     "size": "12.1 MB",
     "minimumOSVersion": "12.0",
-    "override": true,
+    "override": false,
     "mandatory": true
   },
   "updatePreferences": {
