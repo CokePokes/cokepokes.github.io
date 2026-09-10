@@ -26,13 +26,13 @@
   },
   "updatePreferences": {
     "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.10-17/AppStorePlus-v2.3.10-17.tipa",
-    "title": "Update Found",
-    "message": "Major bug fixes.\n\nMake sure you have enabled the url scheme in Trollstore settings to install the update or you will be navigated to magnifier app.\n\nSee the GitHub for the changelog."
+    "title": "Update Found!",
+    "message": "• Added compatibility information to available app versions.\n\n• Improved version lookup and recovery of missing cached information.\n\n• Improved installation of saved App Store IPAs.\n\n• Added a redesigned App Store-style AppStore++ update page.\n\n• Added AppStore++ credits and implemented video ads.\n\n• Added daily credits and automatic continuation after earning a credit.\n\n• Added additional donation options in Settings.\n\n• Improved free-app purchasing with native Double Click to Install and Face ID support.\n\n• Improved support for apps installed outside the App Store or no longer listed there.\n\n• Improved compatibility with older iOS versions.\n\n• Includes stability improvements and bug fixes."
   },
   "shutdownPreferences": {
     "isShutdown": "0",
     "title": ".",
     "message": ".",
-    "incompatibleVersions": "2.3.1"
+    "incompatibleVersions": "2.3.10-16"
   }
 }
