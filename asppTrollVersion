@@ -1,5 +1,6 @@
 {
   "version": "2.3.10-17",
+  "jbVersion": "2.3.14-21",
   "updatePreferencesV2": {
     "appName": "AppStore++",
     "subtitle": "The ultimate App Store companion",
@@ -17,15 +18,16 @@
       "Improved compatibility with older iOS versions.",
       "Includes stability improvements and bug fixes."
     ],
+    "jbUpdateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.14-20/AppStorePlus_2.3.14-20_iphoneos-arm.deb",
     "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.10-17/AppStorePlus-v2.3.10-17.tipa",
     "releaseDate": "September 8, 2026",
-    "size": "12.1 MB",
+    "size": "11.1 MB",
     "minimumOSVersion": "12.0",
     "override": false,
     "mandatory": true
   },
   "updatePreferences": {
-    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.10-17/AppStorePlus-v2.3.10-17.tipa",
+    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.14-20/AppStorePlus-v2.3.14-20.tipa",
     "title": "Update Found!",
     "message": "• Added compatibility information to available app versions.\n\n• Improved version lookup and recovery of missing cached information.\n\n• Improved installation of saved App Store IPAs.\n\n• Added a redesigned App Store-style AppStore++ update page.\n\n• Added AppStore++ credits and implemented video ads.\n\n• Added daily credits and automatic continuation after earning a credit.\n\n• Added additional donation options in Settings.\n\n• Improved free-app purchasing with native Double Click to Install and Face ID support.\n\n• Improved support for apps installed outside the App Store or no longer listed there.\n\n• Improved compatibility with older iOS versions.\n\n• Includes stability improvements and bug fixes."
   },
