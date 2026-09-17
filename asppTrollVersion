@@ -1,11 +1,12 @@
 {
-  "version": "2.3.15-1",
-  "jbVersion": "2.3.15-1",
+  "version": "2.3.15-7",
+  "jbVersion": "2.3.15-7",
   "updatePreferencesV2": {
     "appName": "AppStore++",
     "subtitle": "The ultimate App Store companion",
     "developer": "CokePokes",
     "changes": [
+  "New in 2.3.15-7, added ability to delete all ipas for an app and more bug fixes regarding ipa packaging.",
   "Added redesigned iPad split views for Installed Apps, AppStore Search, the IPA Library, and app-data backups.",
   "Added persistent installation progress to product pages and the shared Downloads bar.",
   "Improved saved IPA installation, metadata handling, and app-data backup workflows.",
@@ -16,8 +17,8 @@
   "Updated the AppStore++ update page to show both installed and available versions.",
   "Includes additional interface refinements, stability improvements, and bug fixes."
 ],
-    "jbUpdateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-1/AppStorePlus_2.3.15-1_iphoneos-arm.deb",
-    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-1/AppStorePlus-v2.3.15-1.tipa",
+    "jbUpdateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-7/AppStorePlus_2.3.15-7_iphoneos-arm.deb",
+    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-7/AppStorePlus-v2.3.15-7.tipa",
     "releaseDate": "September 8, 2026",
     "size": "11.1 MB",
     "minimumOSVersion": "12.0",
@@ -25,7 +26,7 @@
     "mandatory": true
   },
   "updatePreferences": {
-    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-1/AppStorePlus-v2.3.15-1.tipa",
+    "updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-1/AppStorePlus-v2.3.15-7.tipa",
     "title": "Update Found!",
     "message": "• Added redesigned iPad split views for Installed Apps, AppStore Search, the IPA Library, and app-data backups.\n\n• Added persistent installation progress to product pages and the shared Downloads bar.\n\n• Improved saved IPA installation, metadata handling, and app-data backup workflows.\n\n• Improved native AppStore installation and version lookup on older iOS versions.\n\n• Restored notifications and improved native AppStore artwork on iOS 12.\n\n• Added smoother animations and clearer controls for app and version favorites.\n\n• Added separate update versions and download links for TrollStore and jailbreak installations.\n\n• Updated the AppStore++ update page to show both installed and available versions.\n\n• Includes additional interface refinements, stability improvements, and bug fixes."
   },
